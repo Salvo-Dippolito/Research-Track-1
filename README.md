@@ -103,7 +103,7 @@ the terminal.
 Custom functions developed to implement this code 
 ----------------------------------------------------------
 
-###Complete list of new functions added###
+### Complete list of new functions added ###
 
 in_range() 
 angle_correction()
@@ -119,7 +119,7 @@ P_control_distance()
 check_and_correct_heading()
 
 
-###Brief functionality and usage overview###
+### Brief functionality and usage overview ###
 
 
 in_range(variable,minimum acceptable value, maximum acceptable value)
