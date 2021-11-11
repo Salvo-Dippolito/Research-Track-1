@@ -20,85 +20,85 @@ the terminal.
 
 ### Pseudo-code for the solution that has been implemented ###
 
-create file name for log
-create and open the log file
-define master_speed
+	create file name for log
+	create and open the log file
+	define master_speed
 
-while(forever):
-	
-	turn on both motors, speed set to master_speed
-	
-	while(both blocks are far enough):
-		keep motors running for 3ms
-	
-	brake both motors
-	
-	if(silver token is closer):
-		
-		if(closest silver is in front of the robot):
-		
-			allign with token
-			
-			get within grabing distance
-			
-			try to grab it
-			
-				if succesful: start grab routine
-				
-				if not: note it in the log file
-				
-		
-		else if(closest silver is at the back of the robot):
-			
-			if (there are no gold blocks directly in front of the bot):
-			
+	while(forever):
+
+		turn on both motors, speed set to master_speed
+
+		while(both blocks are far enough):
+			keep motors running for 3ms
+
+		brake both motors
+
+		if(silver token is closer):
+
+			if(closest silver is in front of the robot):
+
+				allign with token
+
+				get within grabing distance
+
+				try to grab it
+
+					if succesful: start grab routine
+
+					if not: note it in the log file
+
+
+			else if(closest silver is at the back of the robot):
+
+				if (there are no gold blocks directly in front of the bot):
+
+					drive straight for 0.1s
+
+				else if(the silver block is right behind the robot):
+
+					push the silver block back 0.1m and go back to starting position
+
+				else if(the silver block is behind the bot but to the sides):
+
+					move forward 0.1m
+
+		else if(gold token is closer):
+
+			if(the closest gold token is in front of the robot):
+
+				if (it's to the left):
+					turn on the spot to the right
+
+				else if (it's to the right):
+					turn on the spot to the left
+
+				check_and_correct_heading()
+
+				if (the gold block is straight ahead and closer than 0.5m):
+
+					backup until closest gold block is 1m away
+					if(last decision was turning right):
+						turn left of the initial heading
+					if (last decision was to turn left):
+						turn right of the initial heeading
+
+
+				if (the robot is still far enough from the closest gold block):
+
+					drve straight for 0.1s
+
+			else if(the closest gold token is not in front of the robot):
+
 				drive straight for 0.1s
-			
-			else if(the silver block is right behind the robot):
-			
-				push the silver block back 0.1m and go back to starting position
-			
-			else if(the silver block is behind the bot but to the sides):
-			
-				move forward 0.1m
-	
-	else if(gold token is closer):
-	
-		if(the closest gold token is in front of the robot):
-			
-			if (it's to the left):
-				turn on the spot to the right
-				
-			else if (it's to the right):
-				turn on the spot to the left
-				
-			check_and_correct_heading()
-			
-			if (the gold block is straight ahead and closer than 0.5m):
-				
-				backup until closest gold block is 1m away
-				if(last decision was turning right):
-					turn left of the initial heading
-				if (last decision was to turn left):
-					turn right of the initial heeading
-				
-				
-			if (the robot is still far enough from the closest gold block):
-				
-				drve straight for 0.1s
-				
-		else if(the closest gold token is not in front of the robot):
-		
-			drive straight for 0.1s
-			
-			if(the current heading is pointing the robot to an acceptable 
-			direction ):
-				
-				reset a counter so that the current heading can be saved later
+
+				if(the current heading is pointing the robot to an acceptable 
+				direction ):
+
+					reset a counter so that the current heading can be saved later
 
 
 
-end of main while loop
+	end of main while loop
 
 ### Custom functions developed to implement this code ###
 
