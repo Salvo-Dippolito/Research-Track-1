@@ -1,0 +1,3275 @@
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.75m and silver is at: 4.0m
+GOLDEN is closer
+saving initial heading: 90.0
+   elaborating angle:   requested angle= 270.0
+   corrected to: -90.0
+   elaborating angle:   requested angle= -20.0
+   no correction applied
+   elaborating angle:   requested angle= -160.0
+   no correction applied
+I will avoid going between -160.0 and -20.0
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 90.0 min_avoid: -160.0 max_avoid: -20.0
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.75m and silver is at: 4.0m
+GOLDEN is closer
+saving initial heading: 90.0
+   elaborating angle:   requested angle= 270.0
+   corrected to: -90.0
+   elaborating angle:   requested angle= -20.0
+   no correction applied
+   elaborating angle:   requested angle= -160.0
+   no correction applied
+I will avoid going between -160.0 and -20.0
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 90.0 min_avoid: -160.0 max_avoid: -20.0
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.75m and silver is at: 4.0m
+GOLDEN is closer
+saving initial heading: 90.0
+   elaborating angle:   requested angle= 270.0
+   corrected to: -90.0
+   elaborating angle:   requested angle= -20.0
+   no correction applied
+   elaborating angle:   requested angle= -160.0
+   no correction applied
+I will avoid going between -160.0 and -20.0
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 90.0 min_avoid: -160.0 max_avoid: -20.0
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.7609739369m and silver is at: 3.9890260631m
+GOLDEN is closer
+saving initial heading: 90.0
+   elaborating angle:   requested angle= 270.0
+   corrected to: -90.0
+   elaborating angle:   requested angle= -20.0
+   no correction applied
+   elaborating angle:   requested angle= -160.0
+   no correction applied
+I will avoid going between -160.0 and -20.0
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 90.0 min_avoid: -160.0 max_avoid: -20.0
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.836470215054m and silver is at: 3.91352978495m
+GOLDEN is closer
+saving initial heading: 90.0
+   elaborating angle:   requested angle= 270.0
+   corrected to: -90.0
+   elaborating angle:   requested angle= -20.0
+   no correction applied
+   elaborating angle:   requested angle= -160.0
+   no correction applied
+I will avoid going between -160.0 and -20.0
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 90.0 min_avoid: -160.0 max_avoid: -20.0
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.911535172787m and silver is at: 3.83846482721m
+GOLDEN is closer
+saving initial heading: 90.0
+   elaborating angle:   requested angle= 270.0
+   corrected to: -90.0
+   elaborating angle:   requested angle= -20.0
+   no correction applied
+   elaborating angle:   requested angle= -160.0
+   no correction applied
+I will avoid going between -160.0 and -20.0
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 90.0 min_avoid: -160.0 max_avoid: -20.0
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 1.00487121017m and silver is at: 0.598823828193m
+SILVER is closer
+silver in front of me 
+using P_control_angle:
+   elaborating angle:   requested angle= 90.0
+   no correction applied
+   I'm aiming for: 90.0
+   I arrived at: 90.0
+distance to silver: 0.598823828193, closing in at 0.35m
+using P_control_distance:
+   I've moved: 0.238898072372m
+starting grab routine
+grab() succeful
+starting angle 90.0using P_control_angle:
+   elaborating angle:   requested angle= -90.0
+   no correction applied
+   I'm aiming for: -90.0
+   I arrived at: -89.999045842
+stopped at -89.999045842using P_control_distance:
+   I've moved: 0.290254442607m
+using P_control_angle:
+   elaborating angle:   requested angle= 90.0008481847
+   no correction applied
+   I'm aiming for: 90.0008481847
+   I arrived at: 89.999883912
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 1.00214408157m and silver is at: 0.541446967796m
+SILVER is closer
+silver not in front of me
+Silver token is behind me, I'll go on
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 1.000597899m and silver is at: 0.571346047355m
+SILVER is closer
+silver not in front of me
+Silver token is behind me, I'll go on
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.99993988049m and silver is at: 1.11437591278m
+GOLDEN is closer
+saving initial heading: 89.999883912
+   elaborating angle:   requested angle= 269.999883912
+   corrected to: -90.000116088
+   elaborating angle:   requested angle= -20.000116088
+   no correction applied
+   elaborating angle:   requested angle= -160.000116088
+   no correction applied
+I will avoid going between -160.000116088 and -20.000116088
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 89.999883912 min_avoid: -160.000116088 max_avoid: -20.000116088
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.9999343841m and silver is at: 1.35304502067m
+GOLDEN is closer
+saving initial heading: 89.999883912
+   elaborating angle:   requested angle= 269.999883912
+   corrected to: -90.000116088
+   elaborating angle:   requested angle= -20.000116088
+   no correction applied
+   elaborating angle:   requested angle= -160.000116088
+   no correction applied
+I will avoid going between -160.000116088 and -20.000116088
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 89.999883912 min_avoid: -160.000116088 max_avoid: -20.000116088
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.999924287268m and silver is at: 2.10995386885m
+GOLDEN is closer
+saving initial heading: 89.999883912
+   elaborating angle:   requested angle= 269.999883912
+   corrected to: -90.000116088
+   elaborating angle:   requested angle= -20.000116088
+   no correction applied
+   elaborating angle:   requested angle= -160.000116088
+   no correction applied
+I will avoid going between -160.000116088 and -20.000116088
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 89.999883912 min_avoid: -160.000116088 max_avoid: -20.000116088
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.999965388803m and silver is at: 2.34899757151m
+GOLDEN is closer
+saving initial heading: 89.999883912
+   elaborating angle:   requested angle= 269.999883912
+   corrected to: -90.000116088
+   elaborating angle:   requested angle= -20.000116088
+   no correction applied
+   elaborating angle:   requested angle= -160.000116088
+   no correction applied
+I will avoid going between -160.000116088 and -20.000116088
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 89.999883912 min_avoid: -160.000116088 max_avoid: -20.000116088
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.999962475624m and silver is at: 2.49482465845m
+GOLDEN is closer
+saving initial heading: 89.999883912
+   elaborating angle:   requested angle= 269.999883912
+   corrected to: -90.000116088
+   elaborating angle:   requested angle= -20.000116088
+   no correction applied
+   elaborating angle:   requested angle= -160.000116088
+   no correction applied
+I will avoid going between -160.000116088 and -20.000116088
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 89.999883912 min_avoid: -160.000116088 max_avoid: -20.000116088
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.999927185697m and silver is at: 2.35973273776m
+GOLDEN is closer
+saving initial heading: 89.999883912
+   elaborating angle:   requested angle= 269.999883912
+   corrected to: -90.000116088
+   elaborating angle:   requested angle= -20.000116088
+   no correction applied
+   elaborating angle:   requested angle= -160.000116088
+   no correction applied
+I will avoid going between -160.000116088 and -20.000116088
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 89.999883912 min_avoid: -160.000116088 max_avoid: -20.000116088
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.999937595505m and silver is at: 2.06047531306m
+GOLDEN is closer
+saving initial heading: 89.999883912
+   elaborating angle:   requested angle= 269.999883912
+   corrected to: -90.000116088
+   elaborating angle:   requested angle= -20.000116088
+   no correction applied
+   elaborating angle:   requested angle= -160.000116088
+   no correction applied
+I will avoid going between -160.000116088 and -20.000116088
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 89.999883912 min_avoid: -160.000116088 max_avoid: -20.000116088
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.999928804623m and silver is at: 2.01588871143m
+GOLDEN is closer
+saving initial heading: 89.999883912
+   elaborating angle:   requested angle= 269.999883912
+   corrected to: -90.000116088
+   elaborating angle:   requested angle= -20.000116088
+   no correction applied
+   elaborating angle:   requested angle= -160.000116088
+   no correction applied
+I will avoid going between -160.000116088 and -20.000116088
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 89.999883912 min_avoid: -160.000116088 max_avoid: -20.000116088
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.962842515589m and silver is at: 2.00835145028m
+GOLDEN is closer
+saving initial heading: 89.999883912
+   elaborating angle:   requested angle= 269.999883912
+   corrected to: -90.000116088
+   elaborating angle:   requested angle= -20.000116088
+   no correction applied
+   elaborating angle:   requested angle= -160.000116088
+   no correction applied
+I will avoid going between -160.000116088 and -20.000116088
+closest gold token to the right, I'm turning left
+current heading: 87.831221607 min_avoid: -160.000116088 max_avoid: -20.000116088
+   elaborating angle:   requested angle= 177.831337695
+   no correction applied
+I can still turn 177.831337695
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= 177.831337695
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.873299781363m and silver is at: 2.01966631934m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: 82.2087253858 min_avoid: -160.000116088 max_avoid: -20.000116088
+   elaborating angle:   requested angle= 172.208841474
+   no correction applied
+I can still turn 172.208841474
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= 172.208841474
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.829487704392m and silver is at: 2.02141359069m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: 76.1766343427 min_avoid: -160.000116088 max_avoid: -20.000116088
+   elaborating angle:   requested angle= 166.176750431
+   no correction applied
+I can still turn 166.176750431
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= 166.176750431
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.821714683104m and silver is at: 2.02114843293m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: 70.0959688974 min_avoid: -160.000116088 max_avoid: -20.000116088
+   elaborating angle:   requested angle= 160.096084985
+   no correction applied
+I can still turn 160.096084985
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= 160.096084985
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.819929813344m and silver is at: 2.02090902506m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: 62.3905253102 min_avoid: -160.000116088 max_avoid: -20.000116088
+   elaborating angle:   requested angle= 152.390641398
+   no correction applied
+I can still turn 152.390641398
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= 152.390641398
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.819164082312m and silver is at: 2.02072659398m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: 55.9419951568 min_avoid: -160.000116088 max_avoid: -20.000116088
+   elaborating angle:   requested angle= 145.942111245
+   no correction applied
+I can still turn 145.942111245
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= 145.942111245
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.818966671176m and silver is at: 2.02064789203m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: 48.1929259978 min_avoid: -160.000116088 max_avoid: -20.000116088
+   elaborating angle:   requested angle= 138.193042086
+   no correction applied
+I can still turn 138.193042086
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= 138.193042086
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.818911537225m and silver is at: 2.02061602155m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: 41.739222229 min_avoid: -160.000116088 max_avoid: -20.000116088
+   elaborating angle:   requested angle= 131.739338317
+   no correction applied
+I can still turn 131.739338317
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= 131.739338317
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.801759795492m and silver is at: 2.00636674979m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: 33.989539524 min_avoid: -160.000116088 max_avoid: -20.000116088
+   elaborating angle:   requested angle= 123.989655612
+   no correction applied
+I can still turn 123.989655612
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= 123.989655612
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.795084179093m and silver is at: 1.99844439124m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: 25.9167453559 min_avoid: -160.000116088 max_avoid: -20.000116088
+   elaborating angle:   requested angle= 115.916861444
+   no correction applied
+I can still turn 115.916861444
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= 115.916861444
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.793612410683m and silver is at: 1.99702544309m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: 19.4246506017 min_avoid: -160.000116088 max_avoid: -20.000116088
+   elaborating angle:   requested angle= 109.42476669
+   no correction applied
+I can still turn 109.42476669
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= 109.42476669
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.793310183666m and silver is at: 1.99634009651m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: 11.670415058 min_avoid: -160.000116088 max_avoid: -20.000116088
+   elaborating angle:   requested angle= 101.670531146
+   no correction applied
+I can still turn 101.670531146
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= 101.670531146
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.793252536998m and silver is at: 1.99613792967m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= 99.6615898269
+   no correction applied
+I'm this close to the wrong heading:  99.6615898269
+current heading is: 9.66147373896 min_avoid: -160.000116088 max_avoid: -20.000116088
+I'll keep driving straight
+   elaborating angle:   requested angle= 97.3848769937
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.791012741845m and silver is at: 1.96770229472m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= 97.1466339335
+   no correction applied
+I'm this close to the wrong heading:  97.1466339335
+current heading is: 7.1465178455 min_avoid: -160.000116088 max_avoid: -20.000116088
+I'll keep driving straight
+   elaborating angle:   requested angle= 96.8766354883
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.781553023603m and silver is at: 1.87750084634m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: 4.64758404974 min_avoid: -160.000116088 max_avoid: -20.000116088
+   elaborating angle:   requested angle= 94.6477001377
+   no correction applied
+I can still turn 94.6477001377
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= 94.6477001377
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.76604848914m and silver is at: 1.79063906886m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= 93.0253318712
+   no correction applied
+I'm this close to the wrong heading:  93.0253318712
+current heading is: 3.02521578323 min_avoid: -160.000116088 max_avoid: -20.000116088
+I'll keep driving straight
+   elaborating angle:   requested angle= 91.1867183598
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.767470729496m and silver is at: 1.72168995087m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= 90.9943195192
+   no correction applied
+I'm this close to the wrong heading:  90.9943195192
+current heading is: 0.994203431265 min_avoid: -160.000116088 max_avoid: -20.000116088
+I'll keep driving straight
+   elaborating angle:   requested angle= 90.7762758635
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.769800657943m and silver is at: 1.64985076067m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= 90.7534590255
+   no correction applied
+I'm this close to the wrong heading:  90.7534590255
+current heading is: 0.753342937501 min_avoid: -160.000116088 max_avoid: -20.000116088
+I'll keep driving straight
+   elaborating angle:   requested angle= 90.7276009343
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.761446132209m and silver is at: 1.53912818851m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= 90.7248950547
+   no correction applied
+I'm this close to the wrong heading:  90.7248950547
+current heading is: 0.72477896673 min_avoid: -160.000116088 max_avoid: -20.000116088
+I'll keep driving straight
+   elaborating angle:   requested angle= 90.7218285088
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.765587014418m and silver is at: 1.40178524494m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= 90.7218285088
+   no correction applied
+I'm this close to the wrong heading:  90.7218285088
+current heading is: 0.721712420825 min_avoid: -160.000116088 max_avoid: -20.000116088
+I'll keep driving straight
+   elaborating angle:   requested angle= 90.7212087978
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.759894599547m and silver is at: 1.25428722134m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= 90.7211439491
+   no correction applied
+I'm this close to the wrong heading:  90.7211439491
+current heading is: 0.721027861102 min_avoid: -160.000116088 max_avoid: -20.000116088
+I'll keep driving straight
+   elaborating angle:   requested angle= 90.7210704567
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.758510119531m and silver is at: 1.13263291909m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= 90.7210627662
+   no correction applied
+I'm this close to the wrong heading:  90.7210627662
+current heading is: 0.720946678241 min_avoid: -160.000116088 max_avoid: -20.000116088
+I'll keep driving straight
+   elaborating angle:   requested angle= 90.7210540507
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.756258828358m and silver is at: 1.02832062955m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= 90.7210531386
+   no correction applied
+I'm this close to the wrong heading:  90.7210531386
+current heading is: 0.720937050656 min_avoid: -160.000116088 max_avoid: -20.000116088
+I'll keep driving straight
+   elaborating angle:   requested angle= 90.721052105
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.753845125934m and silver is at: 0.886680081935m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= 90.721052105
+   no correction applied
+I'm this close to the wrong heading:  90.721052105
+current heading is: 0.720936017066 min_avoid: -160.000116088 max_avoid: -20.000116088
+I'll keep driving straight
+   elaborating angle:   requested angle= 90.7210518743
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.759399390344m and silver is at: 0.748909518842m
+SILVER is closer
+silver in front of me 
+using P_control_angle:
+   elaborating angle:   requested angle= -33.4885599286
+   no correction applied
+   I'm aiming for: -33.4885599286
+   I arrived at: -33.4876538596
+distance to silver: 0.628204101453, closing in at 0.35m
+using P_control_distance:
+   I've moved: 0.268369152935m
+starting grab routine
+grab() succeful
+starting angle -33.5483196664using P_control_angle:
+   elaborating angle:   requested angle= -213.548319666
+   corrected to: 146.451680334
+   I'm aiming for: 146.451680334
+   I arrived at: 146.450682593
+stopped at 146.450682593using P_control_distance:
+   I've moved: 0.290028476073m
+using P_control_angle:
+   elaborating angle:   requested angle= 326.45277333
+   corrected to: -33.54722667
+   I'm aiming for: -33.54722667
+   I arrived at: -33.5462966442
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.829473622634m and silver is at: 0.554625643661m
+SILVER is closer
+silver not in front of me
+Silver token is behind me, I'll go on
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.799157010016m and silver is at: 0.609210950157m
+SILVER is closer
+silver not in front of me
+Silver token is behind me, I'll go on
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.764172133951m and silver is at: 0.679346324088m
+SILVER is closer
+silver not in front of me
+Silver token is behind me, I'll go on
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.702188571437m and silver is at: 0.825425663296m
+GOLDEN is closer
+saving initial heading: -33.5465264798
+   elaborating angle:   requested angle= 146.45347352
+   no correction applied
+   elaborating angle:   requested angle= 216.45347352
+   corrected to: -143.54652648
+   elaborating angle:   requested angle= 76.4534735202
+   no correction applied
+I will avoid going between -143.54652648 and 76.4534735202
+closest gold token is to the left, turning right
+current heading: -31.3778641748 min_avoid: -143.54652648 max_avoid: 76.4534735202
+   elaborating angle:   requested angle= -177.831337695
+   no correction applied
+I can still turn 177.831337695 degrees
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -177.831337695
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.644754504469m and silver is at: 0.888990041197m
+GOLDEN is closer
+closest gold token is to the left, turning right
+current heading: -25.7553679536 min_avoid: -143.54652648 max_avoid: 76.4534735202
+   elaborating angle:   requested angle= -172.208841474
+   no correction applied
+I can still turn 172.208841474 degrees
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -172.208841474
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.636683559356m and silver is at: 0.906421378583m
+GOLDEN is closer
+closest gold token is to the left, turning right
+current heading: -19.7232769105 min_avoid: -143.54652648 max_avoid: 76.4534735202
+   elaborating angle:   requested angle= -166.176750431
+   no correction applied
+I can still turn 166.176750431 degrees
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -166.176750431
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.635196176764m and silver is at: 0.91047421585m
+GOLDEN is closer
+closest gold token is to the left, turning right
+current heading: -13.6426114652 min_avoid: -143.54652648 max_avoid: 76.4534735202
+   elaborating angle:   requested angle= -160.096084985
+   no correction applied
+I can still turn 160.096084985 degrees
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -160.096084985
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.63469493943m and silver is at: 0.912238556022m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= -158.259595856
+   no correction applied
+I'm this close to the wrong heading:  158.259595856
+current heading is: -11.8061223359 min_avoid: -143.54652648 max_avoid: 76.4534735202
+I'll keep driving straight
+   elaborating angle:   requested angle= -156.178321341
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.629502063936m and silver is at: 0.96313210519m
+GOLDEN is closer
+saving initial heading: -9.50705609866
+   elaborating angle:   requested angle= 170.492943901
+   no correction applied
+   elaborating angle:   requested angle= 240.492943901
+   corrected to: -119.507056099
+   elaborating angle:   requested angle= 100.492943901
+   no correction applied
+I will avoid going between -119.507056099 and 100.492943901
+The closest gold token is behind me
+   elaborating angle:   requested angle= -180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: -9.50705609866 min_avoid: -119.507056099 max_avoid: 100.492943901
+I'll keep driving straight
+   elaborating angle:   requested angle= -179.753178849
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.604867734298m and silver is at: 1.08476529144m
+GOLDEN is closer
+saving initial heading: -9.23440673315
+   elaborating angle:   requested angle= 170.765593267
+   no correction applied
+   elaborating angle:   requested angle= 240.765593267
+   corrected to: -119.234406733
+   elaborating angle:   requested angle= 100.765593267
+   no correction applied
+I will avoid going between -119.234406733 and 100.765593267
+closest gold token is to the left, turning right
+current heading: -7.03647357489 min_avoid: -119.234406733 max_avoid: 100.765593267
+   elaborating angle:   requested angle= -177.802066842
+   no correction applied
+I can still turn 177.802066842 degrees
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -177.802066842
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.593539414297m and silver is at: 1.14861811333m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= -176.179986201
+   no correction applied
+I'm this close to the wrong heading:  176.179986201
+current heading is: -5.41439293411 min_avoid: -119.234406733 max_avoid: 100.765593267
+I'll keep driving straight
+   elaborating angle:   requested angle= -174.341698653
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.595908371595m and silver is at: 1.21587223803m
+GOLDEN is closer
+saving initial heading: -3.3837406554
+   elaborating angle:   requested angle= 176.616259345
+   no correction applied
+   elaborating angle:   requested angle= 246.616259345
+   corrected to: -113.383740655
+   elaborating angle:   requested angle= 106.616259345
+   no correction applied
+I will avoid going between -113.383740655 and 106.616259345
+The closest gold token is behind me
+   elaborating angle:   requested angle= -180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: -3.3837406554 min_avoid: -113.383740655 max_avoid: 106.616259345
+I'll keep driving straight
+   elaborating angle:   requested angle= -179.781995001
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.580408470018m and silver is at: 1.34132204012m
+GOLDEN is closer
+saving initial heading: -3.1429228632
+   elaborating angle:   requested angle= 176.857077137
+   no correction applied
+   elaborating angle:   requested angle= 246.857077137
+   corrected to: -113.142922863
+   elaborating angle:   requested angle= 106.857077137
+   no correction applied
+I will avoid going between -113.142922863 and 106.857077137
+The closest gold token is behind me
+   elaborating angle:   requested angle= -180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: -3.1429228632 min_avoid: -113.142922863 max_avoid: 106.857077137
+I'll keep driving straight
+   elaborating angle:   requested angle= -179.974146493
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.583269939928m and silver is at: 1.4574791901m
+GOLDEN is closer
+saving initial heading: -3.11436395647
+   elaborating angle:   requested angle= 176.885636044
+   no correction applied
+   elaborating angle:   requested angle= 246.885636044
+   corrected to: -113.114363956
+   elaborating angle:   requested angle= 106.885636044
+   no correction applied
+I will avoid going between -113.114363956 and 106.885636044
+The closest gold token is behind me
+   elaborating angle:   requested angle= -180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: -3.11436395647 min_avoid: -113.114363956 max_avoid: 106.885636044
+I'll keep driving straight
+   elaborating angle:   requested angle= -179.996933998
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.565310763235m and silver is at: 1.59921378956m
+GOLDEN is closer
+saving initial heading: -3.11097711721
+   elaborating angle:   requested angle= 176.889022883
+   no correction applied
+   elaborating angle:   requested angle= 246.889022883
+   corrected to: -113.110977117
+   elaborating angle:   requested angle= 106.889022883
+   no correction applied
+I will avoid going between -113.110977117 and 106.889022883
+The closest gold token is behind me
+   elaborating angle:   requested angle= -180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: -3.11097711721 min_avoid: -113.110977117 max_avoid: 106.889022883
+I'll keep driving straight
+   elaborating angle:   requested angle= -179.999636399
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.568870914306m and silver is at: 1.7213562722m
+GOLDEN is closer
+saving initial heading: -3.11057546737
+   elaborating angle:   requested angle= 176.889424533
+   no correction applied
+   elaborating angle:   requested angle= 246.889424533
+   corrected to: -113.110575467
+   elaborating angle:   requested angle= 106.889424533
+   no correction applied
+I will avoid going between -113.110575467 and 106.889424533
+closest gold token is to the left, turning right
+current heading: -0.941870042343 min_avoid: -113.110575467 max_avoid: 106.889424533
+   elaborating angle:   requested angle= -177.831294575
+   no correction applied
+I can still turn 177.831294575 degrees
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -177.831294575
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.55851168654m and silver is at: 1.77650768942m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= -176.212272425
+   no correction applied
+I'm this close to the wrong heading:  176.212272425
+current heading is: 0.677152107926 min_avoid: -113.110575467 max_avoid: 106.889424533
+I'll keep driving straight
+   elaborating angle:   requested angle= -174.377451033
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.556668450385m and silver is at: 1.82858737538m
+GOLDEN is closer
+saving initial heading: 2.70397551983
+   elaborating angle:   requested angle= 182.70397552
+   corrected to: -177.29602448
+   elaborating angle:   requested angle= -107.29602448
+   no correction applied
+   elaborating angle:   requested angle= -247.29602448
+   corrected to: 112.70397552
+I will avoid going between -107.29602448 and 112.70397552
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 2.70397551983 min_avoid: -107.29602448 max_avoid: 112.70397552
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.217593943
+   corrected to: -179.782406057
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.57007935322m and silver is at: 1.92390682602m
+GOLDEN is closer
+saving initial heading: 2.94433924154
+   elaborating angle:   requested angle= 182.944339242
+   corrected to: -177.055660758
+   elaborating angle:   requested angle= -107.055660758
+   no correction applied
+   elaborating angle:   requested angle= -247.055660758
+   corrected to: 112.944339242
+I will avoid going between -107.055660758 and 112.944339242
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 2.94433924154 min_avoid: -107.055660758 max_avoid: 112.944339242
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.025804759
+   corrected to: -179.974195241
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.568616190179m and silver is at: 2.03181775621m
+GOLDEN is closer
+saving initial heading: 2.97284429944
+   elaborating angle:   requested angle= 182.972844299
+   corrected to: -177.027155701
+   elaborating angle:   requested angle= -107.027155701
+   no correction applied
+   elaborating angle:   requested angle= -247.027155701
+   corrected to: 112.972844299
+I will avoid going between -107.027155701 and 112.972844299
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 2.97284429944 min_avoid: -107.027155701 max_avoid: 112.972844299
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.003060221
+   corrected to: -179.996939779
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.586655451156m and silver is at: 2.17603214853m
+GOLDEN is closer
+saving initial heading: 2.9762247527
+   elaborating angle:   requested angle= 182.976224753
+   corrected to: -177.023775247
+   elaborating angle:   requested angle= -107.023775247
+   no correction applied
+   elaborating angle:   requested angle= -247.023775247
+   corrected to: 112.976224753
+I will avoid going between -107.023775247 and 112.976224753
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 2.9762247527 min_avoid: -107.023775247 max_avoid: 112.976224753
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.000362916
+   corrected to: -179.999637084
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.581879533675m and silver is at: 2.28980374276m
+GOLDEN is closer
+saving initial heading: 2.97662564521
+   elaborating angle:   requested angle= 182.976625645
+   corrected to: -177.023374355
+   elaborating angle:   requested angle= -107.023374355
+   no correction applied
+   elaborating angle:   requested angle= -247.023374355
+   corrected to: 112.976625645
+I will avoid going between -107.023374355 and 112.976625645
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 2.97662564521 min_avoid: -107.023374355 max_avoid: 112.976625645
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.000043039
+   corrected to: -179.999956961
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.590001242326m and silver is at: 2.40429307908m
+GOLDEN is closer
+saving initial heading: 2.97667318759
+   elaborating angle:   requested angle= 182.976673188
+   corrected to: -177.023326812
+   elaborating angle:   requested angle= -107.023326812
+   no correction applied
+   elaborating angle:   requested angle= -247.023326812
+   corrected to: 112.976673188
+I will avoid going between -107.023326812 and 112.976673188
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 2.97667318759 min_avoid: -107.023326812 max_avoid: 112.976673188
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.000005104
+   corrected to: -179.999994896
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.595310194218m and silver is at: 2.51929447813m
+GOLDEN is closer
+saving initial heading: 2.97667882571
+   elaborating angle:   requested angle= 182.976678826
+   corrected to: -177.023321174
+   elaborating angle:   requested angle= -107.023321174
+   no correction applied
+   elaborating angle:   requested angle= -247.023321174
+   corrected to: 112.976678826
+I will avoid going between -107.023321174 and 112.976678826
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 2.97667882571 min_avoid: -107.023321174 max_avoid: 112.976678826
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.000000605
+   corrected to: -179.999999395
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.601133512258m and silver is at: 2.60176452651m
+GOLDEN is closer
+saving initial heading: 2.976679431
+   elaborating angle:   requested angle= 182.976679431
+   corrected to: -177.023320569
+   elaborating angle:   requested angle= -107.023320569
+   no correction applied
+   elaborating angle:   requested angle= -247.023320569
+   corrected to: 112.976679431
+I will avoid going between -107.023320569 and 112.976679431
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 2.976679431 min_avoid: -107.023320569 max_avoid: 112.976679431
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.000000135
+   corrected to: -179.999999865
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.607730571875m and silver is at: 2.68978034292m
+GOLDEN is closer
+saving initial heading: 2.97667957363
+   elaborating angle:   requested angle= 182.976679574
+   corrected to: -177.023320426
+   elaborating angle:   requested angle= -107.023320426
+   no correction applied
+   elaborating angle:   requested angle= -247.023320426
+   corrected to: 112.976679574
+I will avoid going between -107.023320426 and 112.976679574
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 2.97667957363 min_avoid: -107.023320426 max_avoid: 112.976679574
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.000000009
+   corrected to: -179.999999991
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.618099197783m and silver is at: 2.63543913879m
+GOLDEN is closer
+saving initial heading: 2.97667958304
+   elaborating angle:   requested angle= 182.976679583
+   corrected to: -177.023320417
+   elaborating angle:   requested angle= -107.023320417
+   no correction applied
+   elaborating angle:   requested angle= -247.023320417
+   corrected to: 112.976679583
+I will avoid going between -107.023320417 and 112.976679583
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 2.97667958304 min_avoid: -107.023320417 max_avoid: 112.976679583
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.000000001
+   corrected to: -179.999999999
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.651914448046m and silver is at: 2.58936359916m
+GOLDEN is closer
+saving initial heading: 2.97667958415
+   elaborating angle:   requested angle= 182.976679584
+   corrected to: -177.023320416
+   elaborating angle:   requested angle= -107.023320416
+   no correction applied
+   elaborating angle:   requested angle= -247.023320416
+   corrected to: 112.976679584
+I will avoid going between -107.023320416 and 112.976679584
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 2.97667958415 min_avoid: -107.023320416 max_avoid: 112.976679584
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.0
+   corrected to: -180.0
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.704560160793m and silver is at: 2.54904063592m
+GOLDEN is closer
+saving initial heading: 2.97667958427
+   elaborating angle:   requested angle= 182.976679584
+   corrected to: -177.023320416
+   elaborating angle:   requested angle= -107.023320416
+   no correction applied
+   elaborating angle:   requested angle= -247.023320416
+   corrected to: 112.976679584
+I will avoid going between -107.023320416 and 112.976679584
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   corrected to: -180.0
+I'm this close to the wrong heading:  180.0
+current heading is: 2.97667958429 min_avoid: -107.023320416 max_avoid: 112.976679584
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.0
+   corrected to: -180.0
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.787624871526m and silver is at: 2.4976859999m
+GOLDEN is closer
+saving initial heading: 2.9766795843
+   elaborating angle:   requested angle= 182.976679584
+   corrected to: -177.023320416
+   elaborating angle:   requested angle= -107.023320416
+   no correction applied
+   elaborating angle:   requested angle= -247.023320416
+   corrected to: 112.976679584
+I will avoid going between -107.023320416 and 112.976679584
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 2.9766795843 min_avoid: -107.023320416 max_avoid: 112.976679584
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.0
+   corrected to: -180.0
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.902257076382m and silver is at: 2.46923327899m
+GOLDEN is closer
+saving initial heading: 2.9766795843
+   elaborating angle:   requested angle= 182.976679584
+   corrected to: -177.023320416
+   elaborating angle:   requested angle= -107.023320416
+   no correction applied
+   elaborating angle:   requested angle= -247.023320416
+   corrected to: 112.976679584
+I will avoid going between -107.023320416 and 112.976679584
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 2.9766795843 min_avoid: -107.023320416 max_avoid: 112.976679584
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.0
+   corrected to: -180.0
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.98795946176m and silver is at: 2.44378983597m
+GOLDEN is closer
+saving initial heading: 2.9766795843
+   elaborating angle:   requested angle= 182.976679584
+   corrected to: -177.023320416
+   elaborating angle:   requested angle= -107.023320416
+   no correction applied
+   elaborating angle:   requested angle= -247.023320416
+   corrected to: 112.976679584
+I will avoid going between -107.023320416 and 112.976679584
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 2.9766795843 min_avoid: -107.023320416 max_avoid: 112.976679584
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.0
+   corrected to: -180.0
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.993138792217m and silver is at: 2.42385412552m
+GOLDEN is closer
+saving initial heading: 2.9766795843
+   elaborating angle:   requested angle= 182.976679584
+   corrected to: -177.023320416
+   elaborating angle:   requested angle= -107.023320416
+   no correction applied
+   elaborating angle:   requested angle= -247.023320416
+   corrected to: 112.976679584
+I will avoid going between -107.023320416 and 112.976679584
+closest gold token to the right, I'm turning left
+current heading: 0.808017279247 min_avoid: -107.023320416 max_avoid: 112.976679584
+   elaborating angle:   requested angle= 177.831337695
+   no correction applied
+I can still turn 177.831337695
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= 177.831337695
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.888917495336m and silver is at: 2.4310487135m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: -4.81447894195 min_avoid: -107.023320416 max_avoid: 112.976679584
+   elaborating angle:   requested angle= 172.208841474
+   no correction applied
+I can still turn 172.208841474
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= 172.208841474
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.860414382473m and silver is at: 2.43150254853m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: -10.846569985 min_avoid: -107.023320416 max_avoid: 112.976679584
+   elaborating angle:   requested angle= 166.176750431
+   no correction applied
+I can still turn 166.176750431
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= 166.176750431
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.853813321819m and silver is at: 2.43087223667m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: -16.9272354303 min_avoid: -107.023320416 max_avoid: 112.976679584
+   elaborating angle:   requested angle= 160.096084985
+   no correction applied
+I can still turn 160.096084985
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= 160.096084985
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.85095096211m and silver is at: 2.43047509216m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: -23.0136613794 min_avoid: -107.023320416 max_avoid: 112.976679584
+   elaborating angle:   requested angle= 154.009659036
+   no correction applied
+I can still turn 154.009659036
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= 154.009659036
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.850194297681m and silver is at: 2.43033311317m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: -30.7197881126 min_avoid: -107.023320416 max_avoid: 112.976679584
+   elaborating angle:   requested angle= 146.303532303
+   no correction applied
+I can still turn 146.303532303
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= 146.303532303
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.84999773751m and silver is at: 2.43024989621m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: -38.7874169192 min_avoid: -107.023320416 max_avoid: 112.976679584
+   elaborating angle:   requested angle= 138.235903496
+   no correction applied
+I can still turn 138.235903496
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= 138.235903496
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.849948491522m and silver is at: 2.43021929024m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: -46.8979167442 min_avoid: -107.023320416 max_avoid: 112.976679584
+   elaborating angle:   requested angle= 130.125403671
+   no correction applied
+I can still turn 130.125403671
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= 130.125403671
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.849936574767m and silver is at: 2.43020885394m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: -55.0135007011 min_avoid: -107.023320416 max_avoid: 112.976679584
+   elaborating angle:   requested angle= 122.009819715
+   no correction applied
+I can still turn 122.009819715
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= 122.009819715
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.849933564668m and silver is at: 2.43020509803m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: -61.5106699541 min_avoid: -107.023320416 max_avoid: 112.976679584
+   elaborating angle:   requested angle= 115.512650462
+   no correction applied
+I can still turn 115.512650462
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= 115.512650462
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.849933146394m and silver is at: 2.43020432802m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: -67.6464896515 min_avoid: -107.023320416 max_avoid: 112.976679584
+   elaborating angle:   requested angle= 109.376830764
+   no correction applied
+I can still turn 109.376830764
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= 109.376830764
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.849933057179m and silver is at: 2.43020410122m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: -75.3584740558 min_avoid: -107.023320416 max_avoid: 112.976679584
+   elaborating angle:   requested angle= 101.66484636
+   no correction applied
+I can still turn 101.66484636
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= 101.66484636
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.849933042489m and silver is at: 2.4302040352m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= 99.6582538167
+   no correction applied
+I'm this close to the wrong heading:  99.6582538167
+current heading is: -77.365066599 min_avoid: -107.023320416 max_avoid: 112.976679584
+I'll keep driving straight
+   elaborating angle:   requested angle= 97.3842028272
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.845305771074m and silver is at: 2.37736045437m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: -82.3154271828 min_avoid: -107.023320416 max_avoid: 112.976679584
+   elaborating angle:   requested angle= 94.7078932329
+   no correction applied
+I can still turn 94.7078932329
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= 94.7078932329
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.833676989871m and silver is at: 2.33830479225m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: -87.9981259806 min_avoid: -107.023320416 max_avoid: 112.976679584
+   elaborating angle:   requested angle= 89.0251944351
+   no correction applied
+I can still turn 89.0251944351
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= 89.0251944351
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.830212868483m and silver is at: 2.31886187636m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= 87.210828601
+   no correction applied
+I'm this close to the wrong heading:  87.210828601
+current heading is: -89.8124918147 min_avoid: -107.023320416 max_avoid: 112.976679584
+I'll keep driving straight
+   elaborating angle:   requested angle= 85.1546261924
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.828871005182m and silver is at: 2.26078457959m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= 84.9394581014
+   no correction applied
+I'm this close to the wrong heading:  84.9394581014
+current heading is: -92.0838623143 min_avoid: -107.023320416 max_avoid: 112.976679584
+I'll keep driving straight
+   elaborating angle:   requested angle= 84.6956102848
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.834562767633m and silver is at: 2.15825027533m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= 84.6700932107
+   no correction applied
+I'm this close to the wrong heading:  84.6700932107
+current heading is: -92.353227205 min_avoid: -107.023320416 max_avoid: 112.976679584
+I'll keep driving straight
+   elaborating angle:   requested angle= 84.6411749693
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.838756732703m and silver is at: 2.04346901467m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= 84.6381488651
+   no correction applied
+I'm this close to the wrong heading:  84.6381488651
+current heading is: -92.3851715506 min_avoid: -107.023320416 max_avoid: 112.976679584
+I'll keep driving straight
+   elaborating angle:   requested angle= 84.6347194118
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.846756835143m and silver is at: 1.9253212879m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= 84.6343605421
+   no correction applied
+I'm this close to the wrong heading:  84.6343605421
+current heading is: -92.3889598736 min_avoid: -107.023320416 max_avoid: 112.976679584
+I'll keep driving straight
+   elaborating angle:   requested angle= 84.6339538386
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.850554513056m and silver is at: 1.84025186639m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= 84.6339112797
+   no correction applied
+I'm this close to the wrong heading:  84.6339112797
+current heading is: -92.389409136 min_avoid: -107.023320416 max_avoid: 112.976679584
+I'll keep driving straight
+   elaborating angle:   requested angle= 84.6338630482
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.85212833841m and silver is at: 1.72097645559m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= 84.6338580011
+   no correction applied
+I'm this close to the wrong heading:  84.6338580011
+current heading is: -92.3894624146 min_avoid: -107.023320416 max_avoid: 112.976679584
+I'll keep driving straight
+   elaborating angle:   requested angle= 84.6338522813
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.86029507071m and silver is at: 1.57696299324m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= 84.6338516827
+   no correction applied
+I'm this close to the wrong heading:  84.6338516827
+current heading is: -92.389468733 min_avoid: -107.023320416 max_avoid: 112.976679584
+I'll keep driving straight
+   elaborating angle:   requested angle= 84.6338510044
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.864916539291m and silver is at: 1.44664316965m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= 84.6338509334
+   no correction applied
+I'm this close to the wrong heading:  84.6338509334
+current heading is: -92.3894694823 min_avoid: -107.023320416 max_avoid: 112.976679584
+I'll keep driving straight
+   elaborating angle:   requested angle= 84.633850853
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.870586200725m and silver is at: 1.2899529908m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= 84.6338508445
+   no correction applied
+I'm this close to the wrong heading:  84.6338508445
+current heading is: -92.3894695712 min_avoid: -107.023320416 max_avoid: 112.976679584
+I'll keep driving straight
+   elaborating angle:   requested angle= 84.633850835
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.874549622297m and silver is at: 1.20415728778m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= 84.633850834
+   no correction applied
+I'm this close to the wrong heading:  84.633850834
+current heading is: -92.3894695817 min_avoid: -107.023320416 max_avoid: 112.976679584
+I'll keep driving straight
+   elaborating angle:   requested angle= 84.6338508329
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.880594551504m and silver is at: 1.06005536572m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= 84.6338508328
+   no correction applied
+I'm this close to the wrong heading:  84.6338508328
+current heading is: -92.3894695829 min_avoid: -107.023320416 max_avoid: 112.976679584
+I'll keep driving straight
+   elaborating angle:   requested angle= 84.6338508326
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.89131741543m and silver is at: 0.866026157413m
+SILVER is closer
+silver in front of me 
+using P_control_angle:
+   elaborating angle:   requested angle= -97.4902990263
+   no correction applied
+   I'm aiming for: -97.4902990263
+   I arrived at: -97.489385297
+distance to silver: 0.762741055856, closing in at 0.35m
+using P_control_distance:
+   I've moved: 0.403042840729m
+starting grab routine
+grab() succeful
+starting angle -97.49853481using P_control_angle:
+   elaborating angle:   requested angle= -277.49853481
+   corrected to: 82.50146519
+   I'm aiming for: 82.50146519
+   I arrived at: 82.5005450066
+stopped at 82.5005450066using P_control_distance:
+   I've moved: 0.290229928387m
+using P_control_angle:
+   elaborating angle:   requested angle= 262.500698666
+   corrected to: -97.4993013343
+   I'm aiming for: -97.4993013343
+   I arrived at: -97.4983167779
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.985515083636m and silver is at: 0.541033618397m
+SILVER is closer
+silver not in front of me
+Silver token is behind me, I'll go on
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.987893822389m and silver is at: 0.570932697657m
+SILVER is closer
+silver not in front of me
+Silver token is behind me, I'll go on
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.999510093402m and silver is at: 0.726104566908m
+SILVER is closer
+silver not in front of me
+Silver token is behind me, I'll go on
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.977999020338m and silver is at: 0.877508552414m
+SILVER is closer
+silver not in front of me
+Silver token is behind me, I'll go on
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.966939505044m and silver is at: 0.970468068383m
+GOLDEN is closer
+saving initial heading: -97.4983167779
+   elaborating angle:   requested angle= 82.5016832221
+   no correction applied
+   elaborating angle:   requested angle= 152.501683222
+   no correction applied
+   elaborating angle:   requested angle= 12.5016832221
+   no correction applied
+I will avoid going between 12.5016832221 and 152.501683222
+closest gold token is to the left, turning right
+current heading: -95.3296544728 min_avoid: 12.5016832221 max_avoid: 152.501683222
+   elaborating angle:   requested angle= -177.831337695
+   no correction applied
+I can still turn 177.831337695 degrees
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -177.831337695
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.9485206255m and silver is at: 1.07316193264m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= -176.212320057
+   no correction applied
+I'm this close to the wrong heading:  176.212320057
+current heading is: -93.7106368348 min_avoid: 12.5016832221 max_avoid: 152.501683222
+I'll keep driving straight
+   elaborating angle:   requested angle= -174.377503779
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.945705185017m and silver is at: 1.11876654854m
+GOLDEN is closer
+saving initial heading: -91.6838190716
+   elaborating angle:   requested angle= 88.3161809284
+   no correction applied
+   elaborating angle:   requested angle= 158.316180928
+   no correction applied
+   elaborating angle:   requested angle= 18.3161809284
+   no correction applied
+I will avoid going between 18.3161809284 and 158.316180928
+The closest gold token is behind me
+   elaborating angle:   requested angle= -180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: -91.6838190716 min_avoid: 18.3161809284 max_avoid: 158.316180928
+I'll keep driving straight
+   elaborating angle:   requested angle= -179.782406663
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.949107597501m and silver is at: 1.25228156167m
+GOLDEN is closer
+saving initial heading: -91.4434560198
+   elaborating angle:   requested angle= 88.5565439802
+   no correction applied
+   elaborating angle:   requested angle= 158.55654398
+   no correction applied
+   elaborating angle:   requested angle= 18.5565439802
+   no correction applied
+I will avoid going between 18.5565439802 and 158.55654398
+The closest gold token is behind me
+   elaborating angle:   requested angle= -180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: -91.4434560198 min_avoid: 18.5565439802 max_avoid: 158.55654398
+I'll keep driving straight
+   elaborating angle:   requested angle= -179.974195313
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.940190375765m and silver is at: 1.33438616552m
+GOLDEN is closer
+saving initial heading: -91.4149510414
+   elaborating angle:   requested angle= 88.5850489586
+   no correction applied
+   elaborating angle:   requested angle= 158.585048959
+   no correction applied
+   elaborating angle:   requested angle= 18.5850489586
+   no correction applied
+I will avoid going between 18.5850489586 and 158.585048959
+The closest gold token is behind me
+   elaborating angle:   requested angle= -180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: -91.4149510414 min_avoid: 18.5850489586 max_avoid: 158.585048959
+I'll keep driving straight
+   elaborating angle:   requested angle= -179.996939787
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.941494708337m and silver is at: 1.48599727189m
+GOLDEN is closer
+saving initial heading: -91.4115705975
+   elaborating angle:   requested angle= 88.5884294025
+   no correction applied
+   elaborating angle:   requested angle= 158.588429402
+   no correction applied
+   elaborating angle:   requested angle= 18.5884294025
+   no correction applied
+I will avoid going between 18.5884294025 and 158.588429402
+The closest gold token is behind me
+   elaborating angle:   requested angle= -180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: -91.4115705975 min_avoid: 18.5884294025 max_avoid: 158.588429402
+I'll keep driving straight
+   elaborating angle:   requested angle= -179.999637085
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.934774292123m and silver is at: 1.57096989902m
+GOLDEN is closer
+saving initial heading: -91.4111697061
+   elaborating angle:   requested angle= 88.5888302939
+   no correction applied
+   elaborating angle:   requested angle= 158.588830294
+   no correction applied
+   elaborating angle:   requested angle= 18.5888302939
+   no correction applied
+I will avoid going between 18.5888302939 and 158.588830294
+The closest gold token is behind me
+   elaborating angle:   requested angle= -180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: -91.4111697061 min_avoid: 18.5888302939 max_avoid: 158.588830294
+I'll keep driving straight
+   elaborating angle:   requested angle= -179.999956961
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.934578825152m and silver is at: 1.72408193777m
+GOLDEN is closer
+saving initial heading: -91.4111221639
+   elaborating angle:   requested angle= 88.5888778361
+   no correction applied
+   elaborating angle:   requested angle= 158.588877836
+   no correction applied
+   elaborating angle:   requested angle= 18.5888778361
+   no correction applied
+I will avoid going between 18.5888778361 and 158.588877836
+The closest gold token is behind me
+   elaborating angle:   requested angle= -180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: -91.4111221639 min_avoid: 18.5888778361 max_avoid: 158.588877836
+I'll keep driving straight
+   elaborating angle:   requested angle= -179.999994896
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.927395534854m and silver is at: 1.84333427573m
+GOLDEN is closer
+saving initial heading: -91.4111165258
+   elaborating angle:   requested angle= 88.5888834742
+   no correction applied
+   elaborating angle:   requested angle= 158.588883474
+   no correction applied
+   elaborating angle:   requested angle= 18.5888834742
+   no correction applied
+I will avoid going between 18.5888834742 and 158.588883474
+The closest gold token is behind me
+   elaborating angle:   requested angle= -180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: -91.4111165258 min_avoid: 18.5888834742 max_avoid: 158.588883474
+I'll keep driving straight
+   elaborating angle:   requested angle= -179.999999395
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.930997205442m and silver is at: 1.99144315218m
+GOLDEN is closer
+saving initial heading: -91.4111158572
+   elaborating angle:   requested angle= 88.5888841428
+   no correction applied
+   elaborating angle:   requested angle= 158.588884143
+   no correction applied
+   elaborating angle:   requested angle= 18.5888841428
+   no correction applied
+I will avoid going between 18.5888841428 and 158.588884143
+The closest gold token is behind me
+   elaborating angle:   requested angle= -180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: -91.4111158572 min_avoid: 18.5888841428 max_avoid: 158.588884143
+I'll keep driving straight
+   elaborating angle:   requested angle= -179.999999928
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.920735073727m and silver is at: 2.10819069502m
+GOLDEN is closer
+saving initial heading: -91.4111157779
+   elaborating angle:   requested angle= 88.5888842221
+   no correction applied
+   elaborating angle:   requested angle= 158.588884222
+   no correction applied
+   elaborating angle:   requested angle= 18.5888842221
+   no correction applied
+I will avoid going between 18.5888842221 and 158.588884222
+The closest gold token is behind me
+   elaborating angle:   requested angle= -180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: -91.4111157779 min_avoid: 18.5888842221 max_avoid: 158.588884222
+I'll keep driving straight
+   elaborating angle:   requested angle= -179.999999991
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.87055406561m and silver is at: 2.2415281167m
+GOLDEN is closer
+saving initial heading: -91.4111157685
+   elaborating angle:   requested angle= 88.5888842315
+   no correction applied
+   elaborating angle:   requested angle= 158.588884232
+   no correction applied
+   elaborating angle:   requested angle= 18.5888842315
+   no correction applied
+I will avoid going between 18.5888842315 and 158.588884232
+closest gold token to the right, I'm turning left
+current heading: -93.5797780725 min_avoid: 18.5888842315 max_avoid: 158.588884232
+   elaborating angle:   requested angle= -182.168662304
+   corrected to: 177.831337696
+I can still turn 177.831337696
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -182.168662304
+   corrected to: 177.831337696
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.777849120124m and silver is at: 2.34469081846m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: -99.2022742935 min_avoid: 18.5888842315 max_avoid: 158.588884232
+   elaborating angle:   requested angle= -187.791158525
+   corrected to: 172.208841475
+I can still turn 172.208841475
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -187.791158525
+   corrected to: 172.208841475
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.750042814258m and silver is at: 2.36331901201m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: -105.234365336 min_avoid: 18.5888842315 max_avoid: 158.588884232
+   elaborating angle:   requested angle= -193.823249568
+   corrected to: 166.176750432
+I can still turn 166.176750432
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -193.823249568
+   corrected to: 166.176750432
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.745197676508m and silver is at: 2.3683978096m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: -111.315030782 min_avoid: 18.5888842315 max_avoid: 158.588884232
+   elaborating angle:   requested angle= -199.903915013
+   corrected to: 160.096084987
+I can still turn 160.096084987
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -199.903915013
+   corrected to: 160.096084987
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.717970141452m and silver is at: 2.39773771182m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: -117.401456731 min_avoid: 18.5888842315 max_avoid: 158.588884232
+   elaborating angle:   requested angle= -205.990340962
+   corrected to: 154.009659038
+I can still turn 154.009659038
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -205.990340962
+   corrected to: 154.009659038
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.710958524419m and silver is at: 2.40555735329m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: -123.488565826 min_avoid: 18.5888842315 max_avoid: 158.588884232
+   elaborating angle:   requested angle= -212.077450058
+   corrected to: 147.922549942
+I can still turn 147.922549942
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -212.077450058
+   corrected to: 147.922549942
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.690287305293m and silver is at: 2.42959615365m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: -131.194773574 min_avoid: 18.5888842315 max_avoid: 158.588884232
+   elaborating angle:   requested angle= -219.783657806
+   corrected to: 140.216342194
+I can still turn 140.216342194
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -219.783657806
+   corrected to: 140.216342194
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.682005214627m and silver is at: 2.43976253653m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: -137.643394351 min_avoid: 18.5888842315 max_avoid: 158.588884232
+   elaborating angle:   requested angle= -226.232278582
+   corrected to: 133.767721418
+I can still turn 133.767721418
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -226.232278582
+   corrected to: 133.767721418
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.679890978795m and silver is at: 2.44257215527m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: -143.773456619 min_avoid: 18.5888842315 max_avoid: 158.588884232
+   elaborating angle:   requested angle= -232.36234085
+   corrected to: 127.63765915
+I can still turn 127.63765915
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -232.36234085
+   corrected to: 127.63765915
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.679515155237m and silver is at: 2.44302296628m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: -149.865740604 min_avoid: 18.5888842315 max_avoid: 158.588884232
+   elaborating angle:   requested angle= -238.454624835
+   corrected to: 121.545375165
+I can still turn 121.545375165
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -238.454624835
+   corrected to: 121.545375165
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.679392251339m and silver is at: 2.44313271326m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: -155.953544411 min_avoid: 18.5888842315 max_avoid: 158.588884232
+   elaborating angle:   requested angle= -244.542428643
+   corrected to: 115.457571357
+I can still turn 115.457571357
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -244.542428643
+   corrected to: 115.457571357
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.679362398586m and silver is at: 2.44315864103m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: -162.040816908 min_avoid: 18.5888842315 max_avoid: 158.588884232
+   elaborating angle:   requested angle= -250.62970114
+   corrected to: 109.37029886
+I can still turn 109.37029886
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -250.62970114
+   corrected to: 109.37029886
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.664802119265m and silver is at: 2.45585100848m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: -168.128026397 min_avoid: 18.5888842315 max_avoid: 158.588884232
+   elaborating angle:   requested angle= -256.716910628
+   corrected to: 103.283089372
+I can still turn 103.283089372
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -256.716910628
+   corrected to: 103.283089372
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.662108248935m and silver is at: 2.458270704m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: -174.215228413 min_avoid: 18.5888842315 max_avoid: 158.588884232
+   elaborating angle:   requested angle= -262.804112644
+   corrected to: 97.1958873557
+I can still turn 97.1958873557
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -262.804112644
+   corrected to: 97.1958873557
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.661105797642m and silver is at: 2.45916291641m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: 179.697570457 min_avoid: 18.5888842315 max_avoid: 158.588884232
+   elaborating angle:   requested angle= 91.1086862257
+   no correction applied
+I can still turn 91.1086862257
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= 91.1086862257
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.661010991219m and silver is at: 2.45925041444m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= 89.2718337723
+   no correction applied
+I'm this close to the wrong heading:  89.2718337723
+current heading is: 177.860718004 min_avoid: 18.5888842315 max_avoid: 158.588884232
+I'll keep driving straight
+   elaborating angle:   requested angle= 87.190147506
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.659739638262m and silver is at: 2.46172748539m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= 86.9723126964
+   no correction applied
+I'm this close to the wrong heading:  86.9723126964
+current heading is: 175.561196928 min_avoid: 18.5888842315 max_avoid: 158.588884232
+I'll keep driving straight
+   elaborating angle:   requested angle= 86.7254427148
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.665568586606m and silver is at: 2.4658506315m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= 86.699609391
+   no correction applied
+I'm this close to the wrong heading:  86.699609391
+current heading is: 175.288493623 min_avoid: 18.5888842315 max_avoid: 158.588884232
+I'll keep driving straight
+   elaborating angle:   requested angle= 86.6703327469
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.605101694391m and silver is at: 2.48039422935m
+GOLDEN is closer
+closest gold token is to the left, turning right
+current heading: 177.421343718 min_avoid: 18.5888842315 max_avoid: 158.588884232
+   elaborating angle:   requested angle= 88.8324594866
+   no correction applied
+I can still turn 88.8324594866 degrees
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= 88.8324594866
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.517459696333m and silver is at: 2.48987406023m
+GOLDEN is closer
+closest gold token is to the left, turning right
+current heading: -176.956935122 min_avoid: 18.5888842315 max_avoid: 158.588884232
+   elaborating angle:   requested angle= -265.545819354
+   corrected to: 94.4541806463
+I can still turn 94.4541806463 degrees
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -265.545819354
+   corrected to: 94.4541806463
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.493469247419m and silver is at: 2.49340120011m
+GOLDEN is closer
+closest gold token is to the left, turning right
+current heading: -170.924935995 min_avoid: 18.5888842315 max_avoid: 158.588884232
+   elaborating angle:   requested angle= -259.513820226
+   corrected to: 100.486179774
+I can still turn 100.486179774 degrees
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -259.513820226
+   corrected to: 100.486179774
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.486321008441m and silver is at: 2.49580806096m
+GOLDEN is closer
+closest gold token is to the left, turning right
+current heading: -164.84428145 min_avoid: 18.5888842315 max_avoid: 158.588884232
+   elaborating angle:   requested angle= -253.433165681
+   corrected to: 106.566834319
+I can still turn 106.566834319 degrees
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -253.433165681
+   corrected to: 106.566834319
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.485255841581m and silver is at: 2.49630376632m
+GOLDEN is closer
+closest gold token is to the left, turning right
+current heading: -158.757856793 min_avoid: 18.5888842315 max_avoid: 158.588884232
+   elaborating angle:   requested angle= -247.346741025
+   corrected to: 112.653258975
+I can still turn 112.653258975 degrees
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -247.346741025
+   corrected to: 112.653258975
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.484799938788m and silver is at: 2.49659336436m
+GOLDEN is closer
+closest gold token is to the left, turning right
+current heading: -152.670747852 min_avoid: 18.5888842315 max_avoid: 158.588884232
+   elaborating angle:   requested angle= -241.259632083
+   corrected to: 118.740367917
+I can still turn 118.740367917 degrees
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -241.259632083
+   corrected to: 118.740367917
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.484669644724m and silver is at: 2.49665597965m
+GOLDEN is closer
+closest gold token is to the left, turning right
+current heading: -146.583557759 min_avoid: 18.5888842315 max_avoid: 158.588884232
+   elaborating angle:   requested angle= -235.172441991
+   corrected to: 124.827558009
+I can still turn 124.827558009 degrees
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -235.172441991
+   corrected to: 124.827558009
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.484648136159m and silver is at: 2.4966754042m
+GOLDEN is closer
+closest gold token is to the left, turning right
+current heading: -140.496358044 min_avoid: 18.5888842315 max_avoid: 158.588884232
+   elaborating angle:   requested angle= -229.085242275
+   corrected to: 130.914757725
+I can still turn 130.914757725 degrees
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -229.085242275
+   corrected to: 130.914757725
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.484642756385m and silver is at: 2.49668129294m
+GOLDEN is closer
+closest gold token is to the left, turning right
+current heading: -134.409157186 min_avoid: 18.5888842315 max_avoid: 158.588884232
+   elaborating angle:   requested angle= -222.998041418
+   corrected to: 137.001958582
+I can still turn 137.001958582 degrees
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -222.998041418
+   corrected to: 137.001958582
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.484641619328m and silver is at: 2.4966830447m
+GOLDEN is closer
+closest gold token is to the left, turning right
+current heading: -128.321956194 min_avoid: 18.5888842315 max_avoid: 158.588884232
+   elaborating angle:   requested angle= -216.910840426
+   corrected to: 143.089159574
+I can still turn 143.089159574 degrees
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -216.910840426
+   corrected to: 143.089159574
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.484641128508m and silver is at: 2.49668355745m
+GOLDEN is closer
+closest gold token is to the left, turning right
+current heading: -120.615737547 min_avoid: 18.5888842315 max_avoid: 158.588884232
+   elaborating angle:   requested angle= -209.204621779
+   corrected to: 150.795378221
+I can still turn 150.795378221 degrees
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -209.204621779
+   corrected to: 150.795378221
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.484641058966m and silver is at: 2.49668370601m
+GOLDEN is closer
+closest gold token is to the left, turning right
+current heading: -114.167115479 min_avoid: 18.5888842315 max_avoid: 158.588884232
+   elaborating angle:   requested angle= -202.75599971
+   corrected to: 157.24400029
+I can still turn 157.24400029 degrees
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -202.75599971
+   corrected to: 157.24400029
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.484641044913m and silver is at: 2.49668374846m
+GOLDEN is closer
+closest gold token is to the left, turning right
+current heading: -108.037053057 min_avoid: 18.5888842315 max_avoid: 158.588884232
+   elaborating angle:   requested angle= -196.625937289
+   corrected to: 163.374062711
+I can still turn 163.374062711 degrees
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -196.625937289
+   corrected to: 163.374062711
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.484641042298m and silver is at: 2.49668376036m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= -194.786702141
+   corrected to: 165.213297859
+I'm this close to the wrong heading:  165.213297859
+current heading is: -106.197817909 min_avoid: 18.5888842315 max_avoid: 158.588884232
+I'll keep driving straight
+   elaborating angle:   requested angle= -192.702315591
+   corrected to: 167.297684409
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.482206761953m and silver is at: 2.5265801963m
+GOLDEN is closer
+saving initial heading: -103.895313983
+   elaborating angle:   requested angle= 76.1046860173
+   no correction applied
+   elaborating angle:   requested angle= 146.104686017
+   no correction applied
+   elaborating angle:   requested angle= 6.10468601727
+   no correction applied
+I will avoid going between 6.10468601727 and 146.104686017
+The closest gold token is behind me
+   elaborating angle:   requested angle= -180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: -103.895313983 min_avoid: 6.10468601727 max_avoid: 146.104686017
+I'll keep driving straight
+   elaborating angle:   requested angle= -179.752809788
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.453160268754m and silver is at: 2.62139854645m
+GOLDEN is closer
+saving initial heading: -103.622256937
+   elaborating angle:   requested angle= 76.377743063
+   no correction applied
+   elaborating angle:   requested angle= 146.377743063
+   no correction applied
+   elaborating angle:   requested angle= 6.37774306299
+   no correction applied
+I will avoid going between 6.37774306299 and 146.377743063
+closest gold token is to the left, turning right
+current heading: -101.424280011 min_avoid: 6.37774306299 max_avoid: 146.377743063
+   elaborating angle:   requested angle= -177.802023074
+   no correction applied
+I can still turn 177.802023074 degrees
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -177.802023074
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.429257391912m and silver is at: 2.71287251581m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= -176.179937854
+   no correction applied
+I'm this close to the wrong heading:  176.179937854
+current heading is: -99.8021947906 min_avoid: 6.37774306299 max_avoid: 146.377743063
+I'll keep driving straight
+   elaborating angle:   requested angle= -174.341645115
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.427890214487m and silver is at: 2.7567128066m
+GOLDEN is closer
+saving initial heading: -97.7715367783
+   elaborating angle:   requested angle= 82.2284632217
+   no correction applied
+   elaborating angle:   requested angle= 152.228463222
+   no correction applied
+   elaborating angle:   requested angle= 12.2284632217
+   no correction applied
+I will avoid going between 12.2284632217 and 152.228463222
+closest gold token to the right, I'm turning left
+current heading: -101.328537983 min_avoid: 12.2284632217 max_avoid: 152.228463222
+   elaborating angle:   requested angle= -183.557001204
+   corrected to: 176.442998796
+I can still turn 176.442998796
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -183.557001204
+   corrected to: 176.442998796
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.375359536538m and silver is at: 2.82753779068m
+GOLDEN is closer
+closest gold token to the right, I'm turning left
+current heading: -108.848772175 min_avoid: 12.2284632217 max_avoid: 152.228463222
+   elaborating angle:   requested angle= -191.077235397
+   corrected to: 168.922764603
+I can still turn 168.922764603
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -191.077235397
+   corrected to: 168.922764603
+   I haven't
+[EMERGENCY MANEUVER]
+Backing up to 1m from the closest golden blockusing P_control_distance:
+   I've moved: 0.618233509181m
+turning to the left of the initial heading
+using P_control_angle:
+   elaborating angle:   requested angle= -52.7715367783
+   no correction applied
+   I'm aiming for: -52.7715367783
+   I arrived at: -52.8684294903
+back to main loop
+
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.661190300133m and silver is at: 2.23908291366m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= -135.088165059
+   no correction applied
+I'm this close to the wrong heading:  135.088165059
+current heading is: -52.8597018375 min_avoid: 12.2284632217 max_avoid: 152.228463222
+I'll keep driving straight
+   elaborating angle:   requested angle= -135.078274099
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.698217641235m and silver is at: 2.27859292648m
+GOLDEN is closer
+saving initial heading: -52.849810877
+   elaborating angle:   requested angle= 127.150189123
+   no correction applied
+   elaborating angle:   requested angle= 197.150189123
+   corrected to: -162.849810877
+   elaborating angle:   requested angle= 57.150189123
+   no correction applied
+I will avoid going between -162.849810877 and 57.150189123
+The closest gold token is behind me
+   elaborating angle:   requested angle= -179.998964976
+   no correction applied
+I'm this close to the wrong heading:  179.998964976
+current heading is: -52.8487758528 min_avoid: -162.849810877 max_avoid: 57.150189123
+I'll keep driving straight
+   elaborating angle:   requested angle= -179.997791994
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.756687068907m and silver is at: 2.36703434872m
+GOLDEN is closer
+saving initial heading: -52.8474801256
+   elaborating angle:   requested angle= 127.152519874
+   no correction applied
+   elaborating angle:   requested angle= 197.152519874
+   corrected to: -162.847480126
+   elaborating angle:   requested angle= 57.1525198744
+   no correction applied
+I will avoid going between -162.847480126 and 57.1525198744
+closest gold token is to the left, turning right
+current heading: -49.0596610769 min_avoid: -162.847480126 max_avoid: 57.1525198744
+   elaborating angle:   requested angle= -176.212180951
+   no correction applied
+I can still turn 176.212180951 degrees
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -176.212180951
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.684661478974m and silver is at: 2.4422013477m
+GOLDEN is closer
+closest gold token is to the left, turning right
+current heading: -43.0757127442 min_avoid: -162.847480126 max_avoid: 57.1525198744
+   elaborating angle:   requested angle= -170.228232619
+   no correction applied
+I can still turn 170.228232619 degrees
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -170.228232619
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.666024748949m and silver is at: 2.45450871498m
+GOLDEN is closer
+closest gold token is to the left, turning right
+current heading: -37.0007566079 min_avoid: -162.847480126 max_avoid: 57.1525198744
+   elaborating angle:   requested angle= -164.153276482
+   no correction applied
+I can still turn 164.153276482 degrees
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -164.153276482
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.663643180609m and silver is at: 2.45707208703m
+GOLDEN is closer
+closest gold token is to the left, turning right
+current heading: -29.2959900953 min_avoid: -162.847480126 max_avoid: 57.1525198744
+   elaborating angle:   requested angle= -156.44850997
+   no correction applied
+I can still turn 156.44850997 degrees
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -156.44850997
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.662757570987m and silver is at: 2.45813685781m
+GOLDEN is closer
+closest gold token is to the left, turning right
+current heading: -22.8475402371 min_avoid: -162.847480126 max_avoid: 57.1525198744
+   elaborating angle:   requested angle= -150.000060112
+   no correction applied
+I can still turn 150.000060112 degrees
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -150.000060112
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.66256725565m and silver is at: 2.45827475841m
+GOLDEN is closer
+closest gold token is to the left, turning right
+current heading: -16.7174982385 min_avoid: -162.847480126 max_avoid: 57.1525198744
+   elaborating angle:   requested angle= -143.870018113
+   no correction applied
+I can still turn 143.870018113 degrees
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -143.870018113
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.662546720459m and silver is at: 2.45830134583m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= -142.0307841
+   no correction applied
+I'm this close to the wrong heading:  142.0307841
+current heading is: -14.8782642257 min_avoid: -162.847480126 max_avoid: 57.1525198744
+I'll keep driving straight
+   elaborating angle:   requested angle= -139.946398837
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.658868101533m and silver is at: 2.46257986272m
+GOLDEN is closer
+saving initial heading: -12.5757617204
+   elaborating angle:   requested angle= 167.42423828
+   no correction applied
+   elaborating angle:   requested angle= 237.42423828
+   corrected to: -122.57576172
+   elaborating angle:   requested angle= 97.4242382796
+   no correction applied
+I will avoid going between -122.57576172 and 97.4242382796
+closest gold token is to the left, turning right
+current heading: -10.159909356 min_avoid: -122.57576172 max_avoid: 97.4242382796
+   elaborating angle:   requested angle= -177.584147636
+   no correction applied
+I can still turn 177.584147636 degrees
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -177.584147636
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.634592010217m and silver is at: 2.47287643059m
+GOLDEN is closer
+closest gold token is to the left, turning right
+current heading: -4.48223171449 min_avoid: -122.57576172 max_avoid: 97.4242382796
+   elaborating angle:   requested angle= -171.906469994
+   no correction applied
+I can still turn 171.906469994 degrees
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -171.906469994
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.627457257967m and silver is at: 2.47614832595m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= -170.09238329
+   no correction applied
+I'm this close to the wrong heading:  170.09238329
+current heading is: -2.66814501059 min_avoid: -122.57576172 max_avoid: 97.4242382796
+I'll keep driving straight
+   elaborating angle:   requested angle= -168.036497217
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.627225929977m and silver is at: 2.47588903893m
+GOLDEN is closer
+saving initial heading: -0.612258937473
+   elaborating angle:   requested angle= 179.387741063
+   no correction applied
+   elaborating angle:   requested angle= 249.387741063
+   corrected to: -110.612258937
+   elaborating angle:   requested angle= 109.387741063
+   no correction applied
+I will avoid going between -110.612258937 and 109.387741063
+The closest gold token is behind me
+   elaborating angle:   requested angle= -179.784865011
+   no correction applied
+I'm this close to the wrong heading:  179.784865011
+current heading is: -0.39712394885 min_avoid: -110.612258937 max_avoid: 109.387741063
+I'll keep driving straight
+   elaborating angle:   requested angle= -179.541054709
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.632806048349m and silver is at: 2.47693872841m
+GOLDEN is closer
+saving initial heading: -0.153313646951
+   elaborating angle:   requested angle= 179.846686353
+   no correction applied
+   elaborating angle:   requested angle= 249.846686353
+   corrected to: -110.153313647
+   elaborating angle:   requested angle= 109.846686353
+   no correction applied
+I will avoid going between -110.153313647 and 109.846686353
+The closest gold token is behind me
+   elaborating angle:   requested angle= -180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: -0.153313646951 min_avoid: -110.153313647 max_avoid: 109.846686353
+I'll keep driving straight
+   elaborating angle:   requested angle= -179.950728951
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.627753273084m and silver is at: 2.485848941m
+GOLDEN is closer
+saving initial heading: -0.0988867060318
+   elaborating angle:   requested angle= 179.901113294
+   no correction applied
+   elaborating angle:   requested angle= 249.901113294
+   corrected to: -110.098886706
+   elaborating angle:   requested angle= 109.901113294
+   no correction applied
+I will avoid going between -110.098886706 and 109.901113294
+The closest gold token is behind me
+   elaborating angle:   requested angle= -180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: -0.0988867060318 min_avoid: -110.098886706 max_avoid: 109.901113294
+I'll keep driving straight
+   elaborating angle:   requested angle= -179.99415688
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.629993155233m and silver is at: 2.50466579757m
+GOLDEN is closer
+saving initial heading: -0.0924321417102
+   elaborating angle:   requested angle= 179.907567858
+   no correction applied
+   elaborating angle:   requested angle= 249.907567858
+   corrected to: -110.092432142
+   elaborating angle:   requested angle= 109.907567858
+   no correction applied
+I will avoid going between -110.092432142 and 109.907567858
+The closest gold token is behind me
+   elaborating angle:   requested angle= -180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: -0.0924321417102 min_avoid: -110.092432142 max_avoid: 109.907567858
+I'll keep driving straight
+   elaborating angle:   requested angle= -179.999307057
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.627418864687m and silver is at: 2.52059885556m
+GOLDEN is closer
+saving initial heading: -0.0916666862229
+   elaborating angle:   requested angle= 179.908333314
+   no correction applied
+   elaborating angle:   requested angle= 249.908333314
+   corrected to: -110.091666686
+   elaborating angle:   requested angle= 109.908333314
+   no correction applied
+I will avoid going between -110.091666686 and 109.908333314
+The closest gold token is behind me
+   elaborating angle:   requested angle= -180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: -0.0916666862229 min_avoid: -110.091666686 max_avoid: 109.908333314
+I'll keep driving straight
+   elaborating angle:   requested angle= -179.999917823
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.628747794427m and silver is at: 2.55488409975m
+GOLDEN is closer
+saving initial heading: -0.0915759098244
+   elaborating angle:   requested angle= 179.90842409
+   no correction applied
+   elaborating angle:   requested angle= 249.90842409
+   corrected to: -110.09157591
+   elaborating angle:   requested angle= 109.90842409
+   no correction applied
+I will avoid going between -110.09157591 and 109.90842409
+The closest gold token is behind me
+   elaborating angle:   requested angle= -180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: -0.0915759098244 min_avoid: -110.09157591 max_avoid: 109.90842409
+I'll keep driving straight
+   elaborating angle:   requested angle= -179.999990255
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.626526371932m and silver is at: 2.57746749581m
+GOLDEN is closer
+saving initial heading: -0.0915661643308
+   elaborating angle:   requested angle= 179.908433836
+   no correction applied
+   elaborating angle:   requested angle= 249.908433836
+   corrected to: -110.091566164
+   elaborating angle:   requested angle= 109.908433836
+   no correction applied
+I will avoid going between -110.091566164 and 109.908433836
+The closest gold token is behind me
+   elaborating angle:   requested angle= -179.99999898
+   no correction applied
+I'm this close to the wrong heading:  179.99999898
+current heading is: -0.0915651445289 min_avoid: -110.091566164 max_avoid: 109.908433836
+I'll keep driving straight
+   elaborating angle:   requested angle= -179.999997824
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.626803600955m and silver is at: 2.6212919169m
+GOLDEN is closer
+saving initial heading: -0.091563867858
+   elaborating angle:   requested angle= 179.908436132
+   no correction applied
+   elaborating angle:   requested angle= 249.908436132
+   corrected to: -110.091563868
+   elaborating angle:   requested angle= 109.908436132
+   no correction applied
+I will avoid going between -110.091563868 and 109.908436132
+The closest gold token is behind me
+   elaborating angle:   requested angle= -180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: -0.091563867858 min_avoid: -110.091563868 max_avoid: 109.908436132
+I'll keep driving straight
+   elaborating angle:   requested angle= -179.999999863
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.628578375333m and silver is at: 2.66701586669m
+GOLDEN is closer
+saving initial heading: -0.0915637307982
+   elaborating angle:   requested angle= 179.908436269
+   no correction applied
+   elaborating angle:   requested angle= 249.908436269
+   corrected to: -110.091563731
+   elaborating angle:   requested angle= 109.908436269
+   no correction applied
+I will avoid going between -110.091563731 and 109.908436269
+The closest gold token is behind me
+   elaborating angle:   requested angle= -179.999999986
+   no correction applied
+I'm this close to the wrong heading:  179.999999986
+current heading is: -0.0915637164558 min_avoid: -110.091563731 max_avoid: 109.908436269
+I'll keep driving straight
+   elaborating angle:   requested angle= -179.999999969
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.624498967608m and silver is at: 2.72517278963m
+GOLDEN is closer
+saving initial heading: -0.0915636985009
+   elaborating angle:   requested angle= 179.908436301
+   no correction applied
+   elaborating angle:   requested angle= 249.908436301
+   corrected to: -110.091563699
+   elaborating angle:   requested angle= 109.908436301
+   no correction applied
+I will avoid going between -110.091563699 and 109.908436301
+The closest gold token is behind me
+   elaborating angle:   requested angle= -180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: -0.0915636985009 min_avoid: -110.091563699 max_avoid: 109.908436301
+I'll keep driving straight
+   elaborating angle:   requested angle= -179.999999998
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.632180302785m and silver is at: 2.67320813946m
+GOLDEN is closer
+saving initial heading: -0.0915636963716
+   elaborating angle:   requested angle= 179.908436304
+   no correction applied
+   elaborating angle:   requested angle= 249.908436304
+   corrected to: -110.091563696
+   elaborating angle:   requested angle= 109.908436304
+   no correction applied
+I will avoid going between -110.091563696 and 109.908436304
+closest gold token is to the left, turning right
+current heading: 2.07709860891 min_avoid: -110.091563696 max_avoid: 109.908436304
+   elaborating angle:   requested angle= -177.831337695
+   no correction applied
+I can still turn 177.831337695 degrees
+checking if I haven't turned too far:
+   elaborating angle:   requested angle= -177.831337695
+   no correction applied
+   I haven't
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.626020668069m and silver is at: 2.58128204634m
+GOLDEN is closer
+The closest gold token is behind me
+   elaborating angle:   requested angle= -176.212320057
+   no correction applied
+I'm this close to the wrong heading:  176.212320057
+current heading is: 3.69611624698 min_avoid: -110.091563696 max_avoid: 109.908436304
+I'll keep driving straight
+   elaborating angle:   requested angle= -174.377503779
+   no correction applied
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.627875862355m and silver is at: 2.52595721623m
+GOLDEN is closer
+saving initial heading: 5.72293401015
+   elaborating angle:   requested angle= 185.72293401
+   corrected to: -174.27706599
+   elaborating angle:   requested angle= -104.27706599
+   no correction applied
+   elaborating angle:   requested angle= -244.27706599
+   corrected to: 115.72293401
+I will avoid going between -104.27706599 and 115.72293401
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 5.72293401015 min_avoid: -104.27706599 max_avoid: 115.72293401
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.217593337
+   corrected to: -179.782406663
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.646334493799m and silver is at: 2.39201583025m
+GOLDEN is closer
+saving initial heading: 5.96329706197
+   elaborating angle:   requested angle= 185.963297062
+   corrected to: -174.036702938
+   elaborating angle:   requested angle= -104.036702938
+   no correction applied
+   elaborating angle:   requested angle= -244.036702938
+   corrected to: 115.963297062
+I will avoid going between -104.036702938 and 115.963297062
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 5.96329706197 min_avoid: -104.036702938 max_avoid: 115.963297062
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.025804687
+   corrected to: -179.974195313
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.653500897695m and silver is at: 2.27614887005m
+GOLDEN is closer
+saving initial heading: 5.99180204043
+   elaborating angle:   requested angle= 185.99180204
+   corrected to: -174.00819796
+   elaborating angle:   requested angle= -104.00819796
+   no correction applied
+   elaborating angle:   requested angle= -244.00819796
+   corrected to: 115.99180204
+I will avoid going between -104.00819796 and 115.99180204
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 5.99180204043 min_avoid: -104.00819796 max_avoid: 115.99180204
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.003060213
+   corrected to: -179.996939787
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.673800833357m and silver is at: 2.16698357666m
+GOLDEN is closer
+saving initial heading: 5.99518248426
+   elaborating angle:   requested angle= 185.995182484
+   corrected to: -174.004817516
+   elaborating angle:   requested angle= -104.004817516
+   no correction applied
+   elaborating angle:   requested angle= -244.004817516
+   corrected to: 115.995182484
+I will avoid going between -104.004817516 and 115.995182484
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 5.99518248426 min_avoid: -104.004817516 max_avoid: 115.995182484
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.000362915
+   corrected to: -179.999637085
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.681207619671m and silver is at: 2.0123807465m
+GOLDEN is closer
+saving initial heading: 5.99558337566
+   elaborating angle:   requested angle= 185.995583376
+   corrected to: -174.004416624
+   elaborating angle:   requested angle= -104.004416624
+   no correction applied
+   elaborating angle:   requested angle= -244.004416624
+   corrected to: 115.995583376
+I will avoid going between -104.004416624 and 115.995583376
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 5.99558337566 min_avoid: -104.004416624 max_avoid: 115.995583376
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.000043039
+   corrected to: -179.999956961
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.7027948338m and silver is at: 1.84369614083m
+GOLDEN is closer
+saving initial heading: 5.99563091791
+   elaborating angle:   requested angle= 185.995630918
+   corrected to: -174.004369082
+   elaborating angle:   requested angle= -104.004369082
+   no correction applied
+   elaborating angle:   requested angle= -244.004369082
+   corrected to: 115.995630918
+I will avoid going between -104.004369082 and 115.995630918
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 5.99563091791 min_avoid: -104.004369082 max_avoid: 115.995630918
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.000005104
+   corrected to: -179.999994896
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.71345504017m and silver is at: 1.72163001697m
+GOLDEN is closer
+saving initial heading: 5.99563655601
+   elaborating angle:   requested angle= 185.995636556
+   corrected to: -174.004363444
+   elaborating angle:   requested angle= -104.004363444
+   no correction applied
+   elaborating angle:   requested angle= -244.004363444
+   corrected to: 115.995636556
+I will avoid going between -104.004363444 and 115.995636556
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 5.99563655601 min_avoid: -104.004363444 max_avoid: 115.995636556
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.000000605
+   corrected to: -179.999999395
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.728304694254m and silver is at: 1.61108605282m
+GOLDEN is closer
+saving initial heading: 5.99563722464
+   elaborating angle:   requested angle= 185.995637225
+   corrected to: -174.004362775
+   elaborating angle:   requested angle= -104.004362775
+   no correction applied
+   elaborating angle:   requested angle= -244.004362775
+   corrected to: 115.995637225
+I will avoid going between -104.004362775 and 115.995637225
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 5.99563722464 min_avoid: -104.004362775 max_avoid: 115.995637225
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.000000072
+   corrected to: -179.999999928
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.73799004283m and silver is at: 1.48062523156m
+GOLDEN is closer
+saving initial heading: 5.99563729642
+   elaborating angle:   requested angle= 185.995637296
+   corrected to: -174.004362704
+   elaborating angle:   requested angle= -104.004362704
+   no correction applied
+   elaborating angle:   requested angle= -244.004362704
+   corrected to: 115.995637296
+I will avoid going between -104.004362704 and 115.995637296
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.000000008
+   corrected to: -179.999999992
+I'm this close to the wrong heading:  179.999999992
+current heading is: 5.99563730393 min_avoid: -104.004362704 max_avoid: 115.995637296
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.000000016
+   corrected to: -179.999999984
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.754359683377m and silver is at: 1.32407593158m
+GOLDEN is closer
+saving initial heading: 5.99563731334
+   elaborating angle:   requested angle= 185.995637313
+   corrected to: -174.004362687
+   elaborating angle:   requested angle= -104.004362687
+   no correction applied
+   elaborating angle:   requested angle= -244.004362687
+   corrected to: 115.995637313
+I will avoid going between -104.004362687 and 115.995637313
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 5.99563731334 min_avoid: -104.004362687 max_avoid: 115.995637313
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.000000001
+   corrected to: -179.999999999
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.762907730653m and silver is at: 1.23841750925m
+GOLDEN is closer
+saving initial heading: 5.99563731445
+   elaborating angle:   requested angle= 185.995637314
+   corrected to: -174.004362686
+   elaborating angle:   requested angle= -104.004362686
+   no correction applied
+   elaborating angle:   requested angle= -244.004362686
+   corrected to: 115.995637314
+I will avoid going between -104.004362686 and 115.995637314
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 5.99563731445 min_avoid: -104.004362686 max_avoid: 115.995637314
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.0
+   corrected to: -180.0
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.78058701011m and silver is at: 1.11918008233m
+GOLDEN is closer
+saving initial heading: 5.99563731458
+   elaborating angle:   requested angle= 185.995637315
+   corrected to: -174.004362685
+   elaborating angle:   requested angle= -104.004362685
+   no correction applied
+   elaborating angle:   requested angle= -244.004362685
+   corrected to: 115.995637315
+I will avoid going between -104.004362685 and 115.995637315
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 5.99563731458 min_avoid: -104.004362685 max_avoid: 115.995637315
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.0
+   corrected to: -180.0
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.787447612532m and silver is at: 0.966364337058m
+GOLDEN is closer
+saving initial heading: 5.9956373146
+   elaborating angle:   requested angle= 185.995637315
+   corrected to: -174.004362685
+   elaborating angle:   requested angle= -104.004362685
+   no correction applied
+   elaborating angle:   requested angle= -244.004362685
+   corrected to: 115.995637315
+I will avoid going between -104.004362685 and 115.995637315
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 5.9956373146 min_avoid: -104.004362685 max_avoid: 115.995637315
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.0
+   corrected to: -180.0
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.806926188479m and silver is at: 0.881514622622m
+GOLDEN is closer
+saving initial heading: 5.9956373146
+   elaborating angle:   requested angle= 185.995637315
+   corrected to: -174.004362685
+   elaborating angle:   requested angle= -104.004362685
+   no correction applied
+   elaborating angle:   requested angle= -244.004362685
+   corrected to: 115.995637315
+I will avoid going between -104.004362685 and 115.995637315
+The closest gold token is behind me
+   elaborating angle:   requested angle= 180.0
+   no correction applied
+I'm this close to the wrong heading:  180.0
+current heading is: 5.9956373146 min_avoid: -104.004362685 max_avoid: 115.995637315
+I'll keep driving straight
+   elaborating angle:   requested angle= 180.0
+   corrected to: -180.0
+back to main loop
+
+-------------------------------------------------------------------
+
+I got too close to a block, golden is at: 0.812159206525m and silver is at: 0.763060540213m
+SILVER is closer
+silver in front of me 
+using P_control_angle:
+   elaborating angle:   requested angle= 14.6406764118
+   no correction applied
+   I'm aiming for: 14.6406764118
