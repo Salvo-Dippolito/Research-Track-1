@@ -85,7 +85,7 @@ the terminal.
 
 				if (the robot is still far enough from the closest gold block):
 
-					drve straight for 0.1s
+					drive straight for 0.1s
 
 			else if(the closest gold token is not in front of the robot):
 
