@@ -175,9 +175,9 @@ def check_and_correct_heading(initial_heading,avoid,last_decision):
         print("I'm too close to this heading"+str(avoid))
         log.write("I'm too close to this heading"+str(avoid)+"\n")
         if last_decision=="left":
-            P_control_angle(initial_heading+45,0.1,1,"absolute")
-        elif last_decision=="right":
             P_control_angle(initial_heading-45,0.1,1,"absolute")
+        elif last_decision=="right":
+            P_control_angle(initial_heading+45,0.1,1,"absolute")
         
         P_control_distance(-(0.8-dist_golden()),0.01,90)
     else:
@@ -354,10 +354,10 @@ def main():
                     P_control_distance(-(1-dist_golden()),0.01,90)
                     if last_decision=="right":
                         log.write("turning to the left of the initial heading\n")
-                        P_control_angle(initial_heading-45,0.1,1,"absolute")
-                    elif last_decision=="left":
-                        log.write("turning to the write of the initial heading\n")
                         P_control_angle(initial_heading+45,0.1,1,"absolute")
+                    elif last_decision=="left":
+                        log.write("turning to the right of the initial heading\n")
+                        P_control_angle(initial_heading-45,0.1,1,"absolute")
                     log.write("back to main loop\n\n")
 
                     if dist_golden()>0.5:
@@ -374,7 +374,7 @@ def main():
                 log.write("I'll keep driving straight\n")
                 print("driving straight")
                 drive(master_speed,0.1)
-                if abs(angle_correction(compass()-avoid))>120:
+                if abs(angle_correction(compass()-avoid))>110:
                     golden_counter=0
                 log.write("back to main loop\n\n")
 
