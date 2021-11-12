@@ -343,7 +343,7 @@ def main():
                 
                    
 
-                if dist_golden()<=0.5 and in_range(a_dist_golden(),-10,10):
+                if dist_golden()<=0.5 and in_range(a_dist_golden(),-30,30):
 
                     #the bot got wound up in a logic loop and is getting too close to the walls 
 
