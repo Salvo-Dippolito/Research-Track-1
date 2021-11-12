@@ -374,7 +374,7 @@ def main():
                 log.write("I'll keep driving straight\n")
                 print("driving straight")
                 drive(master_speed,0.1)
-                if abs(angle_correction(compass()-avoid))>90:
+                if abs(angle_correction(compass()-avoid))>120:
                     golden_counter=0
                 log.write("back to main loop\n\n")
 
