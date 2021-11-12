@@ -105,27 +105,27 @@ Custom functions developed to implement this code
 
 ### Complete list of new functions added ###
 
-in_range() 
-angle_correction()
-motors_on()
-brake()
-compass()
-dist_silver()
-a_dist_silver()
-dist_golden()
-a_dist_golden()
-P_control_angle()
-P_control_distance()
-check_and_correct_heading()
+* in_range() \n
+* angle_correction()
+* motors_on()
+* brake()
+* compass()
+* dist_silver()
+* a_dist_silver()
+* dist_golden()
+* a_dist_golden()
+* P_control_angle()
+* P_control_distance()
+* check_and_correct_heading()
 
 
 ### Brief functionality and usage overview ###
 
 
-in_range(variable,minimum acceptable value, maximum acceptable value)
+* in_range(variable,minimum acceptable value, maximum acceptable value)
 	
-	Just to have a more readable code, takes a float variable and checks if its value is in 
-	the range of two other values 
+Is used just to have a more readable code, takes a float variable and checks if its value is in 
+the range of two other values 
 
 
 angle_correction(computed heading)
@@ -136,84 +136,103 @@ angle_correction(computed heading)
 	sign of the computed value 
 	
 
-motors_on(speed)
+* motors_on(speed)
 	
-	simply assigns the value passed as speed to both motors
+Simply assigns the value passed as speed to both motors
 
 
-brake()
+* brake()
 
-	sets both motor speeds to zero
+Sets both motor speeds to zero
 
 
-compass()
+* compass()
 	
-	converts the R.heading value from radians to degrees
+Converts the R.heading value from radians to degrees
 
 
-dist_silver()
+* dist_silver()
 
-	scans through all visible tokens and returns the distance of the closest silver token
-	spotted
-	
-
-a_dist_silver()
-
-	scans through all visible tokens and returns the relative angle (to the robot's 
-	orientation) of the closest silver token spotted
+Scans through all visible tokens and returns the distance of the closest silver token
+spotted
 	
 
-dist_golden()
+* a_dist_silver()
 
-	scans through all visible tokens and returns the distance of the closest golden token
-	spotted
+Scans through all visible tokens and returns the relative angle (to the robot's 
+orientation) of the closest silver token spotted
 	
 
-a_dist_golden()
+* dist_golden()
 
-	scans through all visible tokens and returns the relative angle (to the robot's 
-	orientation) of the closest golden token spotted
+Scans through all visible tokens and returns the distance of the closest golden token
+spotted
 	
 
-P_control_angle(new heading, precision of the maneuver, proportional constant, use specifier)
+* a_dist_golden()
 
-	This function is used to either get the robot to turn for a specified number of 
-	degrees or to get it to point to a specific heading on the map, depending on what string
-	is passed to the last argument. It's a proportional controller that regulates the speed
-	that motors need to go at to close in on the requested heading.
-	
-	The "precision" argument passes the accepted margin of error from the requested value. 
-	The higher this value gets and the quicker, but less precise will be the maneuver.
-	
-	The proportinal constant is usually equal to 1 because overshooting the target value 
-	would be problematic for headings close to 180 (or -180). 
-		
-	
-P_control_distance()
-	
-	Ths function is used to move the robot forwards or backwards of a precise amount. The 
-	arguments are structured like in P_control_angle(). Since there are no discontinuous 
-	intervals like in the case of P_control_angle(), the proportionality constant can be 
-	fairly high.
+Scans through all visible tokens and returns the relative angle (to the robot's 
+orientation) of the closest golden token spotted
 	
 
-check_and_correct_heading()
+* P_control_angle(new heading, precision of the maneuver, proportional constant, use specifier)
 
-	check if the last turning maneuver didn't turn the robot too far back
-	go back to the last heading that was saved before the robot started 
-	turning. Move to the left or to the right of that heading depending on
-	what direction the robot decided to take last.
+This function is used to either get the robot to turn for a specified number of 
+degrees or to get it to point to a specific heading on the map, depending on what string
+is passed to the last argument. It's a proportional controller that regulates the speed
+that motors need to go at to close in on the requested heading.
+
+The "precision" argument passes the accepted margin of error from the requested value. 
+The higher this value gets and the quicker, but less precise will be the maneuver.
+
+The proportinal constant is usually equal to 1 because overshooting the target value 
+would be problematic for headings close to 180 (or -180). 
+
+	
+* P_control_distance()
+	
+  Ths function is used to move the robot forwards or backwards of a precise amount. The 
+  arguments are structured like in P_control_angle(). Since there are no discontinuous 
+  intervals like in the case of P_control_angle(), the proportionality constant can be 
+  fairly high.
+	
+
+* check_and_correct_heading()
+  
+  Checks if the last turning maneuver didn't turn the robot too far back
+  go back to the last heading that was saved before the robot started 
+  turning. Move to the left or to the right of that heading depending on
+  what direction the robot decided to take last.
+
+
+	
+Running the Simulator
+------------------------------------
+
+This python script is written to control a robot inside a simulator developed by [Student Robotics](https://studentrobotics.org). The 'arena' where the robot is supposed to be tested was developed separately for this coding excercise. The simulator requires a Python 2.7 installation, the [pygame](http://pygame.org/) library, [PyPyBox2D](https://pypi.python.org/pypi/pypybox2d/2.1-r331), and [PyYAML](https://pypi.python.org/pypi/PyYAML/).
+
+The folder shared in this repository contains all the necessary scripts to run the robot in its simulated environment. 
+To launch the program move to this folder from terminal and launch both the script run.py and ASSIGNMENT1.py with a python2 command.
+
+The sub-folder past_logs contains the log files of previous runs made by the robot. New log files are currently saved ouside of this sub_folder, directly into the main one.
+
+Side note:
+In the script sim_robot.py, found in sub-folder sr/robot, the MAX_Motor_SPEED value has been raised to 300. 
 
 
 
-### Key features of the Python Robotics Simulator ###
 
-It is a simple, portable robot simulator developed by [Student Robotics](https://studentrobotics.org).
 
-The simulator requires a Python 2.7 installation, the [pygame](http://pygame.org/) library, [PyPyBox2D](https://pypi.python.org/pypi/pypybox2d/2.1-r331), and [PyYAML](https://pypi.python.org/pypi/PyYAML/).
 
- Motors 
-----------------
+
+Key features of the Python Robotics Simulator
+------------------------------------------------------------
+Presented below are some of the key features of the Robot() class used in ASSIGNMENT1.py, and some brief explanationson how the robot is expected to move inside and sense its environment.
+
+
+
+ ### Motors ### 
+
 
 The simulated robot has two motors configured for skid steering, connected to a two-output [Motor Board](https://studentrobotics.org/docs/kit/motor_board). The left motor is connected to output `0` and the right motor to output `1`.
 
@@ -224,8 +243,8 @@ R.motors[0].m0.power = 25
 R.motors[0].m1.power = -25
 ```
 
- The Grabber 
-----------------
+### The Grabber ### 
+
 
 The robot is equipped with a grabber, capable of picking up a token which is in front of the robot and within 0.4 metres of the robot's centre. To pick up a token, call the `R.grab` method:
 
@@ -239,8 +258,7 @@ To drop the token, call the `R.release` method.
 
 Cable-tie flails are not implemented.
 
- Vision 
-----------------
+### Vision ###
 
 To help the robot find tokens and navigate, each token has markers stuck to it, as does each wall. The `R.see` method returns a list of all the markers the robot can see, as `Marker` objects. The robot can only see markers which it is facing towards.
 
@@ -272,57 +290,5 @@ for m in markers:
         print " - Arena marker {0} is {1} metres away".format( m.info.offset, m.dist )
         
 ```
-		
-		
-			
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 [sr-api]: https://studentrobotics.org/docs/programming/sr/
