@@ -15,8 +15,8 @@ robot is also programmed to complete the course in an anti-clockwise manner and 
 until a keyboard interrupt is issued from the terminal.
 
 All of the robot's sensor readings and consequent decisions get printed in a log file that gets
-named with the date and time of when the program was started. Only key decisions are printed on 
-the terminal. 
+named with the date and time of when the program was started. Only key decisions and the current 
+heading the robot has to avoid are printed on the terminal. 
 
 ### Pseudo-code for the solution that has been implemented ###
 
@@ -204,17 +204,37 @@ would be problematic for headings close to 180 (or -180).
   turning. Move to the left or to the right of that heading depending on
   what direction the robot decided to take last.
 
+Future Improvements
+-------------------------------------
+The current version of the command script for the simuated robot has some difficulties in traversing tight long 'hallways' (such as the top-most level of the 
+arena). This behaviour can be greatly limited by changing the angle sector definition for the "front" of the robot from [-90,90] to [-80,80]. This does however 
+partially blind the robot, thus reducing the reaction distance necessary for the robot to react in a timely manner to obstacles. This issue can be mitigated by 
+fine-tuning the various maneuvering parameters in the code.
+
+Another possible solution was considered before continuing development on this version, but it appeared to be too heavy to run on some machines. The main idea of 
+this alternative solution is to have the robot go straight until the closest object appears directly in front of itself. The robot would then scan eclusively its 
+left and right sies and decide to turn away from the side that returned the shortest distance. This solution wouldn't need the robot to constantly check what 
+heading it has to avoid to prevent itself from going through the circuit the wrong way around, and would more easily help the robot keep the right distance from 
+tokens. Development was stopped however on this approach to the solution because it appears that either for a lack of computing power or because of some issues 
+with the installation of all the libraries on this current setup, the simulated environment can't react fat enough to the commands of the robot's navigation 
+algorythhm. So after setting everything up in a better working machine, this alternative solution with a slightly 'heavier' program could be developed into a more 
+efficient and stable solution for this exercise.
+
+
 
 	
 Running the Simulator
 ------------------------------------
 
-This python script is written to control a robot inside a simulator developed by [Student Robotics](https://studentrobotics.org). The 'arena' where the robot is supposed to be tested was developed separately for this coding excercise. The simulator requires a Python 2.7 installation, the [pygame](http://pygame.org/) library, [PyPyBox2D](https://pypi.python.org/pypi/pypybox2d/2.1-r331), and [PyYAML](https://pypi.python.org/pypi/PyYAML/).
+This python script is written to control a robot inside a simulator developed by [Student Robotics](https://studentrobotics.org). The 'arena' where the robot is 
+supposed to be tested was developed separately for this coding excercise. The simulator requires a Python 2.7 installation, the [pygame](http://pygame.org/) 
+library, [PyPyBox2D](https://pypi.python.org/pypi/pypybox2d/2.1-r331), and [PyYAML](https://pypi.python.org/pypi/PyYAML/).
 
 The folder shared in this repository contains all the necessary scripts to run the robot in its simulated environment. 
 To launch the program move to this folder from terminal and launch both the script run.py and ASSIGNMENT1.py with a python2 command.
 
-The sub-folder past_logs contains the log files of previous runs made by the robot. New log files are currently saved ouside of this sub_folder, directly into the main one.
+The sub-folder past_logs contains the log files of previous runs made by the robot. New log files are currently saved ouside of this sub_folder, directly into the 
+main one.
 
 Side note:
 In the script sim_robot.py, found in sub-folder sr/robot, the MAX_Motor_SPEED value has been raised to 300. 
@@ -227,16 +247,19 @@ In the script sim_robot.py, found in sub-folder sr/robot, the MAX_Motor_SPEED va
 
 Key features of the Python Robotics Simulator
 ------------------------------------------------------------
-Presented below are some of the key features of the Robot() class used in ASSIGNMENT1.py, and some brief explanationson how the robot is expected to move inside and sense its environment.
+Presented below are some of the key features of the Robot() class used in ASSIGNMENT1.py, and some brief explanationson how the robot is expected to move inside 
+and sense its environment.
 
 
 
  ### Motors ### 
 
 
-The simulated robot has two motors configured for skid steering, connected to a two-output [Motor Board](https://studentrobotics.org/docs/kit/motor_board). The left motor is connected to output `0` and the right motor to output `1`.
+The simulated robot has two motors configured for skid steering, connected to a two-output [Motor Board](https://studentrobotics.org/docs/kit/motor_board). The 
+left motor is connected to output `0` and the right motor to output `1`.
 
-The Motor Board API is identical to [that of the SR API](https://studentrobotics.org/docs/programming/sr/motors/), except that motor boards cannot be addressed by serial number. So, to turn on the spot at one quarter of full power, one might write the following:
+The Motor Board API is identical to [that of the SR API](https://studentrobotics.org/docs/programming/sr/motors/), except that motor boards cannot be addressed by 
+serial number. So, to turn on the spot at one quarter of full power, one might write the following:
 
 ```python
 R.motors[0].m0.power = 25
@@ -246,13 +269,15 @@ R.motors[0].m1.power = -25
 ### The Grabber ### 
 
 
-The robot is equipped with a grabber, capable of picking up a token which is in front of the robot and within 0.4 metres of the robot's centre. To pick up a token, call the `R.grab` method:
+The robot is equipped with a grabber, capable of picking up a token which is in front of the robot and within 0.4 metres of the robot's centre. To pick up a 
+token, call the `R.grab` method:
 
 ```python
 success = R.grab()
 ```
 
-The `R.grab` function returns `True` if a token was successfully picked up, or `False` otherwise. If the robot is already holding a token, it will throw an `AlreadyHoldingSomethingException`.
+The `R.grab` function returns `True` if a token was successfully picked up, or `False` otherwise. If the robot is already holding a token, it will throw an 
+`AlreadyHoldingSomethingException`.
 
 To drop the token, call the `R.release` method.
 
@@ -260,7 +285,8 @@ Cable-tie flails are not implemented.
 
 ### Vision ###
 
-To help the robot find tokens and navigate, each token has markers stuck to it, as does each wall. The `R.see` method returns a list of all the markers the robot can see, as `Marker` objects. The robot can only see markers which it is facing towards.
+To help the robot find tokens and navigate, each token has markers stuck to it, as does each wall. The `R.see` method returns a list of all the markers the robot 
+can see, as `Marker` objects. The robot can only see markers which it is facing towards.
 
 Each `Marker` object has the following attributes:
 
