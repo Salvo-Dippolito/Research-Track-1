@@ -190,19 +190,19 @@ would be problematic for headings close to 180 (or -180).
 
 	
 * P_control_distance()
-	
-  Ths function is used to move the robot forwards or backwards of a precise amount. The 
-  arguments are structured like in P_control_angle(). Since there are no discontinuous 
-  intervals like in the case of P_control_angle(), the proportionality constant can be 
-  fairly high.
+
+Ths function is used to move the robot forwards or backwards of a precise amount. The 
+arguments are structured like in P_control_angle(). Since there are no discontinuous 
+intervals like in the case of P_control_angle(), the proportionality constant can be 
+fairly high.
 	
 
 * check_and_correct_heading()
   
-  Checks if the last turning maneuver didn't turn the robot too far back
-  go back to the last heading that was saved before the robot started 
-  turning. Move to the left or to the right of that heading depending on
-  what direction the robot decided to take last.
+Checks if the last turning maneuver didn't turn the robot too far back
+go back to the last heading that was saved before the robot started 
+turning. Move to the left or to the right of that heading depending on
+what direction the robot decided to take last.
 
 Future Improvements
 -------------------------------------
@@ -247,7 +247,7 @@ In the script sim_robot.py, found in sub-folder sr/robot, the MAX_Motor_SPEED va
 
 Key features of the Python Robotics Simulator
 ------------------------------------------------------------
-Presented below are some of the key features of the Robot() class used in ASSIGNMENT1.py, and some brief explanationson how the robot is expected to move inside 
+Presented below are some of the key features of the Robot() class used in ASSIGNMENT1.py, and some brief explanations on how the robot is expected to move inside 
 and sense its environment.
 
 
