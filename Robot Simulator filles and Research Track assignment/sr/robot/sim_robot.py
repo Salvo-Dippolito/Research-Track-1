@@ -57,7 +57,7 @@ class SimRobot(GameObject):
     width = 0.45
 
     surface_name = 'sr/robot.png'
-    #change the png file to robot4.png if you are a Star Wars fan 
+    #EASTER EGG:: change the png file to robot4.png if you are a Star Wars fan 
 
     _holding = None
 
