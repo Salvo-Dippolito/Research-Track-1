@@ -128,13 +128,13 @@ Is used just to have a more readable code, takes a float variable and checks if 
 the range of two other values 
 
 
-angle_correction(computed heading)
+* angle_correction(computed heading)
 	
-	headings can vary between [0+ , 180] and [0-,-180] so whenever new headings are 
-	computed, the resulting values have to be within these ranges. If the computed vaule is 
-	not in these ranges, the function converts it by adding +360 or -360 according to the 
-	sign of the computed value 
-	
+Headings can vary between [0+ , 180] and [0-,-180] so whenever new headings are 
+computed, the resulting values have to be within these ranges. If the computed vaule is 
+not in these ranges, the function converts it by adding +360 or -360 according to the 
+sign of the computed value 
+
 
 * motors_on(speed)
 	
