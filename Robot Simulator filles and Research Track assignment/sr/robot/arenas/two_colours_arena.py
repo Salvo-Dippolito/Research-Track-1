@@ -5,7 +5,7 @@ from math import cos, pi, sin
 import pygame
 from pygame.rect import Rect
 
-from arena import ARENA_MARKINGS_COLOR, ARENA_MARKINGS_WIDTH, Arena
+from .arena import ARENA_MARKINGS_COLOR, ARENA_MARKINGS_WIDTH, Arena
 from ..markers import Token
 from ..vision import MARKER_TOKEN_GOLD, MARKER_TOKEN_SILVER
 
